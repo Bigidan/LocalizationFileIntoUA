@@ -4,8 +4,11 @@ Applications are translated manually. Those applications are selected in which t
 
 ### Translated applications:<br/>
 * [![Ubisoft Connect](https://img.shields.io/badge/-UbisoftConnect-090909?style=for-the-badge&logo=Ubisoft)](https://github.com/Bigidan/LocalizationForPrograms/blob/main/Localization/Ubisoft%20Connect/Ubisoft_Connect.md)<br/>
-* [![ShadowPlay](https://img.shields.io/badge/-ShadowPlay-090909?style=for-the-badge&logo=Ubisoft)](https://github.com/Bigidan/LocalizationForPrograms/blob/main/Localization/Ubisoft%20Connect/Ubisoft_Connect.md)<br/>
-* [![GeForceExp](https://img.shields.io/badge/-Ge_Force_Exp-090909?style=for-the-badge&logo=Ubisoft)](https://github.com/Bigidan/LocalizationForPrograms/blob/main/Localization/Ubisoft%20Connect/Ubisoft_Connect.md)<br/>
+
+* [![GeForceExp](https://img.shields.io/badge/-GeForce_Experience-090909?style=for-the-badge&logo=NVIDIA)](https://github.com/Bigidan/LocalizationForPrograms/blob/main/Localization/Ubisoft%20Connect/Ubisoft_Connect.md)<br/>
+
+* [![ShadowPlay](https://img.shields.io/badge/-ShadowPlay-090909?style=for-the-badge&logo=NVIDIA)](https://github.com/Bigidan/LocalizationForPrograms/blob/main/Localization/Ubisoft%20Connect/Ubisoft_Connect.md)<br/>
+
 
 That all, ¯\\_ (o_o) _/¯ other translations are expected...
 
