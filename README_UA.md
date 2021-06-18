@@ -13,4 +13,4 @@
 Все, ¯\\_ (o_o) _/¯ інші переклади очікуються...
 
 
-### [English](././README.md)
+### [English](https://github.com/Bigidan/LocalizationFileIntoUA)
