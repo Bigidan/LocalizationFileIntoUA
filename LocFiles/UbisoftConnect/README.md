@@ -12,3 +12,5 @@
 4. Робимо копію російського перекладу (файлу `ru-RU_loc.txt`) провсяк випадок і перейменовуємо його у `ru-RU_loc_true.txt`
 5. Перейменовуємо файл `uk-UA_loc.txt` --> `ru-RU_loc.txt`
 6. Перезавантажуємо застосунок Ubisoft Connect
+
+#### Відео гайд [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube)](https://www.youtube.com/watch?v=Ek2W5b_9Ttc)
