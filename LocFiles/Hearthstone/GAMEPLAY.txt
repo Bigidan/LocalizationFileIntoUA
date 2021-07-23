@@ -1,0 +1,301 @@
+TAG	TEXT	COMMENT
+FB_BUILDABRAWL001	Виберіть першу бійню!	
+FB_BUILDABRAWL002	Виберіть другу бійню!	
+FB_ELO_GREATERSPIRITS	Виберіть покращений бонус!	
+FB_ELO_SPIRITS	Виберіть бонус!	
+GALAKROND_ONCE	Одне <b>взивання</b> до поліпшення.	
+GALAKROND_TWICE	Два <b>взивання</b> до поліпшення.	
+GAMEPLAY_AI_OPPONENT_NAME	Господар таверни	
+GAMEPLAY_AMETHYST_SPELLSTONE_1	<i>(Отримуйте шкоди від своїх карт для поліпшення.)</i>	
+GAMEPLAY_AMETHYST_SPELLSTONE_2	<i>(Отримуйте шкоди від своїх карт для поліпшення.)</i>	
+GAMEPLAY_AMETHYST_SPELLSTONE_3	<i>(Отримуйте шкоди від своїх карт для поліпшення.)</i>	
+GAMEPLAY_BACON_ALTERNATE_PLAYER_NAME	{0}	0=character hero name
+GAMEPLAY_BACON_BUY_TUTORIAL	Перетягніть, щоб завербувати.	
+GAMEPLAY_BACON_COIN_TUTORIAL_1	Вербування створінь <b>ЗАВЖДИ</b> коштує 3 золоті.	
+GAMEPLAY_BACON_COIN_TUTORIAL_2	Все невитрачене золото зникає.	
+GAMEPLAY_BACON_COMBAT_BODY_TUTORIAL	Ті істоти, що вижили в бою, допомагають вам нанести додаткову шкоди.\n\nЧим вище рівень таверни, тим більше шкоди ви завдасте!	
+GAMEPLAY_BACON_COMBAT_BUTTON_TUTORIAL	ОК!	
+GAMEPLAY_BACON_COMBAT_END_TURN_BUTTON_TEXT	Бій	
+GAMEPLAY_BACON_COMBAT_PHASE_NAME	Бій	
+GAMEPLAY_BACON_COMBAT_TITLE_TUTORIAL	Бойова шкода	
+GAMEPLAY_BACON_CONFIRM_BUTTON_TUTORIAL	ОК!	
+GAMEPLAY_BACON_DRAGBUY_BODY_TUTORIAL	Перетягуйте істот\nдо героя, щоб вербувати їх\n<b>за 3 золоті</b>.\n\nЗберіть армію, щоб перемогти суперників!	
+GAMEPLAY_BACON_DRAGBUY_BUTTON_TUTORIAL	Завербувати	
+GAMEPLAY_BACON_DRAGBUY_TITLE_TUTORIAL	Вербуйте створінь!	
+GAMEPLAY_BACON_DRAGBUY_TRIPLE_TUTORIAL	Купіть, щоб отримати триплет!	
+GAMEPLAY_BACON_DRAGBUY_TUTORIAL	Перетягніть до свого героя.	
+GAMEPLAY_BACON_DRAGSELL_BODY_TUTORIAL	Перетягуйте істот до Боба, щоб продавати їх.\n\nПри цьому ви звільняєте місце і отримуєте золото!	
+GAMEPLAY_BACON_DRAGSELL_BUTTON_TUTORIAL	Продати	
+GAMEPLAY_BACON_DRAGSELL_TITLE_TUTORIAL	Продавайте створінь!	
+GAMEPLAY_BACON_DRAGSELL_TUTORIAL	Перетягніть створіння сюди, щоб продати його.	
+GAMEPLAY_BACON_ENEMY_MINION_TUTORIAL	Виберіть створіння.	
+GAMEPLAY_BACON_FREEZE_TUTORIAL	Заморожуйте істот, щоб знову побачити їх наступного ходу.	
+GAMEPLAY_BACON_MINION_MOVE_TUTORIAL	Перетягніть вправо, щоб змінити побудова.	
+GAMEPLAY_BACON_MINION_UPGRADE_TAVERN_TUTORIAL	Модернізуйте таверну!	
+GAMEPLAY_BACON_MULLIGAN_AVAILABLE_RACES	Типи істот у цьому матчі: {0}, {1}, {2}, {3}, {4}	0=first race, 1=second race, 2=third race, 3=fourth race, 4=fifth race
+GAMEPLAY_BACON_MULLIGAN_CHOOSE_HERO_BANNER	Виберіть героя	
+GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER	Готовність гравців: {0}/{1}	0=number of players ready, 1=number of players in game
+GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER_SUBTITLE	Час, що залишився	
+GAMEPLAY_BACON_PLAY_MINION_TUTORIAL	Розіграйте це створіння!	
+GAMEPLAY_BACON_RECENT_COMBATS	Останні бої	
+GAMEPLAY_BACON_RECENT_UPGRADE	Останнє поліпшення	
+GAMEPLAY_BACON_RECRUIT_REMINDER_TUTORIAL	Виберіть створіння.	
+GAMEPLAY_BACON_RECRUIT_REMINDER_TUTORIAL_2	Завербуйте створіння.	
+GAMEPLAY_BACON_REFRESH_TUTORIAL	Свіжі новобранці.	
+GAMEPLAY_BACON_REFRESH_UPGRADE_TUTORIAL	Покращені новобранці!	
+GAMEPLAY_BACON_SHOP_END_TURN_BUTTON_TEXT	Вербування	
+GAMEPLAY_BACON_SHOP_PHASE_NAME	Вербування	
+GAMEPLAY_BACON_TAVERN_PASS_IN_GAME_HELP	Розблокуйте бонуси для полів битв, щоб отримати цього героя.	
+GAMEPLAY_BACON_TAVERN_TIER	Рівень\nтаверни	
+GAMEPLAY_BACON_TEXT_EMOTE_GREETINGS	Здрастуй	
+GAMEPLAY_BACON_TEXT_EMOTE_INVALID	...	
+GAMEPLAY_BACON_TEXT_EMOTE_OOPS	Ой	
+GAMEPLAY_BACON_TEXT_EMOTE_SORRY	Вибач	
+GAMEPLAY_BACON_TEXT_EMOTE_THANKS	Дякую	
+GAMEPLAY_BACON_TEXT_EMOTE_THREATEN	!!!	
+GAMEPLAY_BACON_TEXT_EMOTE_WELL_PLAYED	Непогано зіграно	
+GAMEPLAY_BACON_TEXT_EMOTE_WOW	Ух ти	
+GAMEPLAY_BACON_TRIPLE_BODY_TUTORIAL	Три однакових істоти об'єднуються у більш потужну золоту версію.\n\nРозіграти її, щоб отримати нагороду!	
+GAMEPLAY_BACON_TRIPLE_BUTTON_TUTORIAL	Об'єднати	
+GAMEPLAY_BACON_TRIPLE_TITLE_TUTORIAL	Потрійне поліпшення!	
+GAMEPLAY_BACON_TRIPLES_ICON	Триплетыи
+GAMEPLAY_BACON_WIN_STREAK_ICON	Серія\nперемог	
+GAMEPLAY_BURNED_CARDS_HISTORY_TEXT	Якщо у вас максимум карт в руці, а ви берете ще одну, ця карта згорить.	
+GAMEPLAY_BURNED_CARDS_TITLE	Полаючі карти	
+GAMEPLAY_CHOOSE_ONE	Виберіть одне	will be displayed for card choices e.g. tracking
+GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_MINIONS	Виберіть ефект для всіх своїх створінь:	
+GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_MURLOCS	Виберіть ефект для всіх своїх мурлоків:	
+GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_RECRUITS	Виберіть ефект для всіх своїх рекрутів:	
+GAMEPLAY_CHOOSE_ONE_HERO_POWER	Виберіть одне	will be displayed for choosing a Hero Power e.g. Sir Finley Mrrgglton
+GAMEPLAY_CHOOSE_ONE_WINNER	Вгадайте, хто переможе!	
+GAMEPLAY_COIN_TOSS_LOST	Додаткова карта!	
+GAMEPLAY_COIN_TOSS_WON	Перший хід - за вами!	
+GAMEPLAY_COPY_DEATHRATTLE	«Передсмертний хрип» скопійовано. джерело: {0}.	
+GAMEPLAY_DIAMOND_SPELLSTONE_1	<i>(Розіграйте 4 заклинання для поліпшення.)</i>	
+GAMEPLAY_DIAMOND_SPELLSTONE_2	<i>(Розіграйте ще 3 заклинання для поліпшення.)</i>	
+GAMEPLAY_DIAMOND_SPELLSTONE_3	<i>(Розіграйте ще 2 заклинання для поліпшення.)</i>	
+GAMEPLAY_DIAMOND_SPELLSTONE_4	<i>(Розіграйте ще 1 заклинання для поліпшення.)</i>	
+GAMEPLAY_DISCONNECT_BODY	Гра завершена і збережена! Щоб продовжити гру, запустіть Hearthstone.	
+GAMEPLAY_DISCONNECT_BODY_RESET	Гра завершена і збережена! Йде повторне підключення до серверів Hearthstone.	
+GAMEPLAY_DISCONNECT_HEADER	З'єднання перервано	
+GAMEPLAY_DISCOVER_JUGGERNAUT	Виберіть капітана-суперника...	
+GAMEPLAY_DISCOVER_MYSTERY	Що вибрав суперник?	
+GAMEPLAY_DISCOVER_OVERRIDE_EXPLORER_RETRAINING	Виберіть нову силу героя	
+GAMEPLAY_DISCOVER_OVERRIDE_FRIENDLY_SMITH	Додайте карту в колоду з +2/+2	
+GAMEPLAY_DISCOVER_OVERRIDE_HIRING_REPLACEMENTS	Виберіть заміну	
+GAMEPLAY_DISCOVER_OVERRIDE_KINDLE	Приберіть карту з колоди	
+GAMEPLAY_DISCOVER_OVERRIDE_PARTY_OF_FOUR	Виберіть тип істот суперника	
+GAMEPLAY_DISCOVER_OVERRIDE_RECRUIT_A_VETERAN	Додайте карту в колоду	
+GAMEPLAY_DISCOVER_OVERRIDE_RIDDLE_OF_THE_SPHINX	Вгадайте!	
+GAMEPLAY_DISCOVER_OVERRIDE_STUDY_BREAK	Додайте карту в колоду і стартову руку	
+GAMEPLAY_DISCOVER_OVERRIDE_THE_UPPER_HAND	Виберіть карту, щоб знизити її вартість	
+GAMEPLAY_DONE_TURN	ГОТОВО	
+GAMEPLAY_EMOTE_LABEL_DISABLED_EMOTES	...	
+GAMEPLAY_EMOTE_LABEL_FIREWORKS	Ух ти	
+GAMEPLAY_EMOTE_LABEL_GREETINGS	Вітаю	
+GAMEPLAY_EMOTE_LABEL_OOPS	Ой!	
+GAMEPLAY_EMOTE_LABEL_SORRY	Вибач	
+GAMEPLAY_EMOTE_LABEL_THANKS	Дякую	
+GAMEPLAY_EMOTE_LABEL_THREATEN	Загроза	
+GAMEPLAY_EMOTE_LABEL_WELL_PLAYED	Непогано	
+GAMEPLAY_EMOTE_LABEL_WOW	Ух ти	
+GAMEPLAY_EMOTE_SQUELCH	Вимкнути\nповідомлення	
+GAMEPLAY_EMOTE_UNSQUELCH	Увімкнути\nповідомлення	
+GAMEPLAY_ENCHANTMENT_MULTIPLIER_HEADER	{0}x {1}	0= integer > 1, 1= enchantment name
+GAMEPLAY_END_OF_GAME_DEFEAT	Поразка!	
+GAMEPLAY_END_OF_GAME_DEFEAT_MAYBE	Поразка?	
+GAMEPLAY_END_OF_GAME_PLACE_1	1-е місце!!!	
+GAMEPLAY_END_OF_GAME_PLACE_2	2-е місце!	
+GAMEPLAY_END_OF_GAME_PLACE_3	3-е місце!	
+GAMEPLAY_END_OF_GAME_PLACE_4	4-е місце!	
+GAMEPLAY_END_OF_GAME_PLACE_5	5-е місце!	
+GAMEPLAY_END_OF_GAME_PLACE_6	6-е місце!	
+GAMEPLAY_END_OF_GAME_PLACE_7	7-е місце!	
+GAMEPLAY_END_OF_GAME_PLACE_8	8-е місце!	
+GAMEPLAY_END_OF_GAME_RATING	Рейтинг	
+GAMEPLAY_END_OF_GAME_TIE	Нічия!	
+GAMEPLAY_END_OF_GAME_TIE_ESCAPED	Ви врятувались!	
+GAMEPLAY_END_OF_GAME_VICTORY	Перемога!	
+GAMEPLAY_END_OF_GAME_VICTORY_MAYBE	Перемога?	
+GAMEPLAY_END_TURN	ЗАКІНЧИТИ	
+GAMEPLAY_END_TURN_BUTTON_COUNTDOWN	{0} сек.	0 = An integer of the number of seconds left in the turn.
+GAMEPLAY_ENEMY_TURN	ЧУЖИЙ ХІД	
+GAMEPLAY_ERROR_PLAY_REJECTED	Занадто пізно! Ваш хід закінчено.	
+GAMEPLAY_FATIGUE_HISTORY_TEXT	При спробі взяти карту герой отримує зростаючу шкоди.	
+GAMEPLAY_FATIGUE_TEXT	У колоді більше немає карт! Герой отримує {0} од. шкоди.	
+GAMEPLAY_FATIGUE_TITLE	Втома	
+GAMEPLAY_GOLDHERO_WINS	побед!	
+GAMEPLAY_HIDDEN_PLAYER_NAME	Ви	
+GAMEPLAY_HISTORY_CREATED_BY	Джерело:\n{0}	0=name of a card
+GAMEPLAY_JASPER_SPELLSTONE_1	<i>(Отримайте 3 од. броні для поліпшення.)</i>	
+GAMEPLAY_JASPER_SPELLSTONE_2	<i>(Отримайте ще 2 од. броні для поліпшення.)</i>	
+GAMEPLAY_JASPER_SPELLSTONE_3	<i>(Отримайте ще 1 од. броні для поліпшення.)</i>	
+GAMEPLAY_LOOT_526d_DARKNESS_1	Пробудиться, коли ваш суперник візьме 3 свічки!	
+GAMEPLAY_LOOT_526d_DARKNESS_2	Пробудиться, коли ваш суперник візьме ще 2 свічки!	
+GAMEPLAY_LOOT_526d_DARKNESS_3	Пробудиться, коли ваш суперник візьме ще 1 свічку!	
+GAMEPLAY_MANA_COUNTER	{0}/{1}	0=unused mana 1=current total mana
+GAMEPLAY_MISSING_OPPONENT_NAME	Ваш суперник	
+GAMEPLAY_MOBILE_BATTLECRY_CANCELED	Бойовий клич скасовано.	
+GAMEPLAY_MOBILE_TARGETING_CANCELED	Отмена цели.	
+GAMEPLAY_MULLIGAN_BEST_PLACE	Найкраще місце: {0}-е	0=The ordinal number (like 1st, 2nd, 3rd, etc), taken from ORDINAL_1, ORDINAL_2, etc.
+GAMEPLAY_MULLIGAN_REPLACE	ЗАМІНЕНА	
+GAMEPLAY_MULLIGAN_STARTING_HAND	Стартова рука	
+GAMEPLAY_MULLIGAN_SUBTITLE	Залиште або замініть карти	
+GAMEPLAY_MULLIGAN_WAITING	Ваш суперник думає...	
+GAMEPLAY_NEXT_TURN	ДОД. ХІД	
+GAMEPLAY_ONYX_SPELLSTONE_1	<i>(Розіграйте 3 карти з <b>«Передсмертним Хрипом»</b> для поліпшення.)</i>	
+GAMEPLAY_ONYX_SPELLSTONE_2	<i>(Розіграйте ще 2 карти з <b>«Передсмертним Хрипом»</b> для поліпшення.)</i>	
+GAMEPLAY_ONYX_SPELLSTONE_3	<i>(Розіграйте ще 1 карту з <b>«Передсмертним Хрипом»</b> для поліпшення.)</i>	
+GAMEPLAY_PEARL_SPELLSTONE_1	<i>(Відновіть 3 од. здоров'я для поліпшення.)</i>	
+GAMEPLAY_PEARL_SPELLSTONE_2	<i>(Відновіть ще 2 од. здоров'я для поліпшення.)</i>	
+GAMEPLAY_PEARL_SPELLSTONE_3	<i>(Відновіть ще 1 од. здоров'я для поліпшення.)</i>	
+GAMEPLAY_PlayErrors_REQ_ATTACK_GREATER_THAN_0	Персонажі без сили атаки не можуть атакувати.	
+GAMEPLAY_PlayErrors_REQ_ATTACKER_CAN_ATTACK	Цей персонаж не може атакувати.	
+GAMEPLAY_PlayErrors_REQ_ATTACKER_NOT_FROZEN	Заморожені персонажі не можуть атакувати.	
+GAMEPLAY_PlayErrors_REQ_BOUGHT_MINION_THIS_TURN	Ви не завербували жодного створіння цього ходу.	
+GAMEPLAY_PlayErrors_REQ_CAN_BE_ATTACKED	Цей персонаж не може бути атакований.	
+GAMEPLAY_PlayErrors_REQ_CAN_BE_TARGETED_BY_BATTLECRIES	Не може бути ціллю здібності «Бойовий клич».	
+GAMEPLAY_PlayErrors_REQ_CAN_BE_TARGETED_BY_COMBOS	Не може бути ціллю здібності «Серія прийомів».	
+GAMEPLAY_PlayErrors_REQ_CAN_BE_TARGETED_BY_HERO_POWERS	Не може бути ціллю сили героя.	
+GAMEPLAY_PlayErrors_REQ_CAN_BE_TARGETED_BY_OPPONENTS	Персонаж не може бути ціллю.	
+GAMEPLAY_PlayErrors_REQ_CAN_BE_TARGETED_BY_SPELLS	Не може бути метою заклинання.	
+GAMEPLAY_PlayErrors_REQ_CANNOT_PLAY_THIS	Ви не можете розіграти цю карту	
+GAMEPLAY_PlayErrors_REQ_CHARGE_TARGET	Виберіть персонажа зі здібністю «Ривок».	
+GAMEPLAY_PlayErrors_REQ_DAMAGED_TARGET	Виберіть персонажа з неповним здоров'ям.	
+GAMEPLAY_PlayErrors_REQ_DRAG_TO_PLAY	Це необхідно перетягнути до цілі	
+GAMEPLAY_PlayErrors_REQ_ENCHANTED_TARGET	Виберіть зачарованого персонажа.	
+GAMEPLAY_PlayErrors_REQ_ENEMY_TARGET	Виберіть суперника.	
+GAMEPLAY_PlayErrors_REQ_ENEMY_TARGET_NOT_IMMUNE	Цей персонаж невразливий.	
+GAMEPLAY_PlayErrors_REQ_ENEMY_WEAPON_EQUIPPED	У суперника повинна бути зброя.	
+GAMEPLAY_PlayErrors_REQ_ENOUGH_COIN	недостатньо золота	
+GAMEPLAY_PlayErrors_REQ_ENOUGH_HEALTH	недостатньо здоров'я	
+GAMEPLAY_PlayErrors_REQ_ENOUGH_MANA	недостатньо мани.	
+GAMEPLAY_PlayErrors_REQ_ENTIRE_ENTOURAGE_NOT_IN_PLAY	У вас вже є тотем кожного виду.	
+GAMEPLAY_PlayErrors_REQ_FRIENDLY_DEATHRATTLE_MINION_DIED_THIS_GAME	Жодне ваше створіння з «Передсмертним хрипом» не загинуло у цоьму матчі.	
+GAMEPLAY_PlayErrors_REQ_FRIENDLY_MINION_DIED_THIS_GAME	Жодне ваше створіння не загинуло у цьому матчі.	
+GAMEPLAY_PlayErrors_REQ_FRIENDLY_MINION_DIED_THIS_TURN	Жодне ваше створіння не загинуло на цьому ході.	
+GAMEPLAY_PlayErrors_REQ_FRIENDLY_MINION_OF_RACE_DIED_THIS_TURN	Жодне ваше підходяще створіння не загинуло у цьому ході.	
+GAMEPLAY_PlayErrors_REQ_FRIENDLY_MINION_OF_RACE_IN_HAND	У вас в руці немає підходящих створінь.	
+GAMEPLAY_PlayErrors_REQ_FRIENDLY_MINIONS_OF_RACE_DIED_THIS_GAME	Жодне ваше підходяще створіння не загинуло у цьому матчі.	
+GAMEPLAY_PlayErrors_REQ_FRIENDLY_REBORN_MINION_DIED_THIS_GAME	В цьому матчі не загинуло жодного вашого створіння з «Переродженням».	
+GAMEPLAY_PlayErrors_REQ_FRIENDLY_TARGET	Виберіть вашого персонажа.	
+GAMEPLAY_PlayErrors_REQ_FROZEN_TARGET	Виберіть замороженого персонажа.	
+GAMEPLAY_PlayErrors_REQ_HAND_NOT_FULL	У вас в руці занадто багато карт	
+GAMEPLAY_PlayErrors_REQ_HERO_OR_MINION_TARGET	Ви повинні вибрати ціллю персонажа.	
+GAMEPLAY_PlayErrors_REQ_HERO_TARGET	Ви повинні вибрати ціллю героя.	
+GAMEPLAY_PlayErrors_REQ_LEGENDARY_TARGET	Ви повинні вибрати ціллю легендарне створіння.	
+GAMEPLAY_PlayErrors_REQ_MAX_QUESTS	У вас не може бути більше {0} |4(задачі,задач,задач).	
+GAMEPLAY_PlayErrors_REQ_MAX_SECRETS	У вас може бути не більше {0} |4(секрета,секретів,секретів).	
+GAMEPLAY_PlayErrors_REQ_MINIMUM_ENEMY_MINIONS	У вашого суперника повинно бути мінімум {0} |4(створіння,створіння,створінь).	
+GAMEPLAY_PlayErrors_REQ_MINIMUM_TOTAL_MINIONS	У грі повинно бути мінімум {0} |4(створіння,створіння,створінь).	
+GAMEPLAY_PlayErrors_REQ_MINION_CAP	Ви не можете викликати більше створінь.	
+GAMEPLAY_PlayErrors_REQ_MINION_CAP_IF_TARGET_AVAILABLE	Ви не можете викликати більше створінь.	
+GAMEPLAY_PlayErrors_REQ_MINION_DIED_THIS_GAME	У цьому матчі не загинуло жодне створіння.	
+GAMEPLAY_PlayErrors_REQ_MINION_OR_ENEMY_HERO	Виберіть істоту або героя суперника	
+GAMEPLAY_PlayErrors_REQ_MINION_SLOT_OR_MANA_CRYSTAL_SLOT	У вас максимум істот або кристалів мани.	
+GAMEPLAY_PlayErrors_REQ_MINION_TARGET	Виберіть створіння.	
+GAMEPLAY_PlayErrors_REQ_MUST_PLAY_OTHER_CARD_FIRST	Спочатку потрібно розіграти карту	
+GAMEPLAY_PlayErrors_REQ_MUST_TARGET_TAUNTER	Ви повинні вибрати ціллю істоту зі здібністю «Провокація»!	
+GAMEPLAY_PlayErrors_REQ_NONSELF_TARGET	Створіння не може вибрати ціллю себе.	
+GAMEPLAY_PlayErrors_REQ_NONSTEALTH_ENEMY_TARGET	Замасковані істоти не можуть бути обрані метою або атаковані.	
+GAMEPLAY_PlayErrors_REQ_NOT_DISABLED_HERO_POWER	Ви не можете використати силу героя.	
+GAMEPLAY_PlayErrors_REQ_NOT_EXHAUSTED_ACTIVATE	Цей персонаж уже атакував.	
+GAMEPLAY_PlayErrors_REQ_NOT_EXHAUSTED_HERO_POWER	Сила героя може бути використана тільки один раз за хід.	
+GAMEPLAY_PlayErrors_REQ_NOT_MINION_DORMANT	Ця істота у сплячці.	
+GAMEPLAY_PlayErrors_REQ_NOT_MINION_JUST_PLAYED	Істоти не атакують в той хід, на якому їх розіграли.	
+GAMEPLAY_PlayErrors_REQ_NUM_MINION_SLOTS	Уже викликано занадто багато істот.	
+GAMEPLAY_PlayErrors_REQ_OPPONENT_PLAYED_CARDS_THIS_GAME	Суперник не розіграв жодної карти.	
+GAMEPLAY_PlayErrors_REQ_SECRET_ZONE_CAP	У вас не може бути більше {0} |4(секрета і задач,секретів і задач,секретів і задач).	
+GAMEPLAY_PlayErrors_REQ_SOLD_MINION_THIS_TURN	Ви не продали жодного створіння на цьому ходу.	
+GAMEPLAY_PlayErrors_REQ_STEALTHED_TARGET	Виберіть персонажа з «Маскуванням».	
+GAMEPLAY_PlayErrors_REQ_SUBCARD_IS_PLAYABLE	Ви не можете вибрати жоден з цих варіантів.	
+GAMEPLAY_PlayErrors_REQ_TARGET_ATTACKED_THIS_TURN	Ви повинні вибрати ціллю персонажа, який вже атакував.	
+GAMEPLAY_PlayErrors_REQ_TARGET_EXACT_COST	Ви повинні вибрати створіння за {0}	
+GAMEPLAY_PlayErrors_REQ_TARGET_FOR_COMBO	Ви повинні вибрати ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_FOR_NO_COMBO	Ви повинні вибрати ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_IF_AVAILABE_AND_ELEMENTAL_PLAYED_LAST_TURN	Ви повинні вибрати ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_IF_AVAILABLE	Ви повинні вибрати ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_IF_AVAILABLE_AND_DRAGON_IN_HAND	Ви повинні вибрати ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_IF_AVAILABLE_AND_MINIMUM_FRIENDLY_MINIONS	Ви повинні вибрати ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_IF_AVAILABLE_AND_MINIMUM_FRIENDLY_SECRETS	Ви повинні вибрати ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_IF_AVAILABLE_AND_PLAYER_HEALTH_CHANGED_THIS_TURN	Ви повинні вибрати ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_MAGNET	Ви повинні вибрати ціллю наявне створіння.	
+GAMEPLAY_PlayErrors_REQ_TARGET_MAX_ATTACK	Виберіть персонажа з силою атаки {0} або меньше.	
+GAMEPLAY_PlayErrors_REQ_TARGET_MIN_ATTACK	Виберіть персонажа з силою атаки {0} або більше.	
+GAMEPLAY_PlayErrors_REQ_TARGET_MUST_HAVE_TAG	Виберіть іншу ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	Не можна застосувати до золотого створіння.	
+GAMEPLAY_PlayErrors_REQ_TARGET_NOT_DAMAGEABLE_ONLY_BY_WEAPONS	Цьому створінню може завдати шкоди тільки зброя.	
+GAMEPLAY_PlayErrors_REQ_TARGET_NOT_DORMANT	Ця істота у сплячці.	
+GAMEPLAY_PlayErrors_REQ_TARGET_NOT_HAVE_TAG	Выберіть іншу ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_NOT_VAMPIRE	Ця істота вже є вампіром.	
+GAMEPLAY_PlayErrors_REQ_TARGET_TAUNTER_CHARACTER	Ви повинні атакувати створіння зі здібністю «Провокація».	
+GAMEPLAY_PlayErrors_REQ_TARGET_TAUNTER_MINION	Ви повинні атакувати створіння зі здібністю «Провокація».	
+GAMEPLAY_PlayErrors_REQ_TARGET_TO_ATTACK	Нема кого атакувати.	
+GAMEPLAY_PlayErrors_REQ_TARGET_TO_PLAY	Ви повинні вибрати ціль.	
+GAMEPLAY_PlayErrors_REQ_TARGET_WITH_BATTLECRY	Виберіть персонажа зі здібністю «Бойовой клич».	
+GAMEPLAY_PlayErrors_REQ_TARGET_WITH_DEATHRATTLE	Виберіть персонажа зі здібністю «Передсмертний хрип».	
+GAMEPLAY_PlayErrors_REQ_TARGET_WITH_RACE	Неправильний тип створіння.	
+GAMEPLAY_PlayErrors_REQ_TWO_OF_A_KIND	Потрібно два однакових створіння.	
+GAMEPLAY_PlayErrors_REQ_UNDAMAGED_TARGET	Ви повинні вибрати ціллю персонажа з повним здоров'ям.	
+GAMEPLAY_PlayErrors_REQ_UNIQUE_SECRET	Ця карта вже знаходиться у грі.	
+GAMEPLAY_PlayErrors_REQ_WEAPON_EQUIPPED	У вас повинна бути зброя.	
+GAMEPLAY_RESTART_PUZZLES	ЗАВАНТАЖУЄМО ЗАГАДКУ...	
+GAMEPLAY_RUBY_SPELLSTONE_1	<i>(Разіграйте 2 елементалів для поліпшення.)</i>	
+GAMEPLAY_RUBY_SPELLSTONE_2	<i>(Разіграйте ще 1 елементаля для поліпшення.)</i>	
+GAMEPLAY_SAPPHIRE_SPELLSTONE_1	<i>(<b>Перенавантажте</b> 3 кристала мани для поліпшення.)</i>	
+GAMEPLAY_SAPPHIRE_SPELLSTONE_2	<i>(<b>Перенавантажте</b> ще 2 кристала мани для поліпшення)</i>	
+GAMEPLAY_SAPPHIRE_SPELLSTONE_3	<i>(<b>Перенавантажте</b> ще 1 кристал мани для поліпшення.)</i>	
+GAMEPLAY_SCORE_SCREEN_TITLE_CONGRATS	Вітаємо!	
+GAMEPLAY_SECRET_BANNER_TITLE	Секрет!	
+GAMEPLAY_SECRET_DESC	Цей секрет відкриється, коли відбудеться певна дія. Будьте напоготові!	
+GAMEPLAY_SECRET_NAME	Секрет	
+GAMEPLAY_SECRET_NAME_HUNTER	Секрет мисливця	
+GAMEPLAY_SECRET_NAME_MAGE	Секрет мага	
+GAMEPLAY_SECRET_NAME_PALADIN	Секрет паладина	
+GAMEPLAY_SECRET_NAME_ROGUE	Секрет розбійника	
+GAMEPLAY_SPECTATOR_DISCONNECT_BODY	З'єднання з грою було розірвано. Будь ласка, перезавантажте Hearthstone. Після підключення вам, можливо, буде потрібно перезапустити режим глядача.	
+GAMEPLAY_SPECTATOR_DISCONNECT_BODY_RESET	З'єднання з грою було розірвано. Ми намагаємося відновити з'єднання. Після підключення вам, можливо, буде потрібно перезапустити режим глядача.	
+GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_DESC	{0}, {1}, {2}, {3}, {4}	0=first race, 1=second race, 2=third race, 3=fourth race, 4=fifth race
+GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_HEADLINE	Представлені:	
+GAMEPLAY_TOOLTIP_BACON_DARKMOON_PRIZES_DESC	{0} |4(хід,хода,ходів) до <b>розкопування</b> призів ярмарки Молодика від Боба!	
+GAMEPLAY_TOOLTIP_BACON_DARKMOON_PRIZES_HEADLINE	Призы ярмарки Новолуния	
+GAMEPLAY_TOOLTIP_BACON_GOLD	Тратьте золото на существ.	
+GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_DESC	{0}, {1}, {2}	0=first race, 1=second race, 2=third race
+GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	Не представлены:	
+GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	У вашій колоді {0} |4(карта,карти,карт).	
+GAMEPLAY_TOOLTIP_DECK_HEADLINE	Колода	
+GAMEPLAY_TOOLTIP_ENEMYDECK_DESC	У колоді вашого суперника {0} |4(карта,карти,карт).	
+GAMEPLAY_TOOLTIP_ENEMYDECK_HEADLINE	Колода суперника	
+GAMEPLAY_TOOLTIP_ENEMYHAND_DESC	У руці вашого суперника {0} |4(карта,карти,карт).	0= number of cards in hand.
+GAMEPLAY_TOOLTIP_ENEMYHAND_DESC_SINGLE	У руці вашого суперника {0} |4(карта,карти,карт).	0= number of cards in hand.
+GAMEPLAY_TOOLTIP_ENEMYHAND_DESC_TUT	Це рука вашого суперника. Кожен гравець бере одну карту з колоди на початку свого ходу.	
+GAMEPLAY_TOOLTIP_ENEMYHAND_HEADLINE	Рука суперника	
+GAMEPLAY_TOOLTIP_ENEMYOVERLOAD_DESC	<b>Перенавантажено</b> кристалів мани: {0}.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_ENEMYOVERLOAD_HEADLINE	Перенавантаження у суперника	
+GAMEPLAY_TOOLTIP_FATIGUE_DECK_DESCRIPTION	У вас в колоді не залишилося карт! Кожен раз, коли ви намагаєтеся взяти карту з порожньої колоди, ви отримаєте шкоду.	
+GAMEPLAY_TOOLTIP_FATIGUE_DECK_HEADLINE	Втома	
+GAMEPLAY_TOOLTIP_FATIGUE_ENEMYDECK_DESCRIPTION	У колоді вашого суперника не залишилося карт! Він буде отримувати шкоду кожен раз, коли буде намагатися взяти карту.	
+GAMEPLAY_TOOLTIP_FATIGUE_ENEMYDECK_HEADLINE	Втома	
+GAMEPLAY_TOOLTIP_HAND_DESCRIPTION	У вас в руці {0} |4(карта,карти,карт).	
+GAMEPLAY_TOOLTIP_HAND_FULL_DESCRIPTION	У вас в руці {0} |4(карта,карти,карт)! Ви більше не можете взяти карту.	
+GAMEPLAY_TOOLTIP_HAND_FULL_HEADLINE	Повная рука	
+GAMEPLAY_TOOLTIP_HAND_HEADLINE	Рука	
+GAMEPLAY_TOOLTIP_MANA_COIN_DESCRIPTION	Ви можете заплатити золотом, щоб змінити свою колоду.	
+GAMEPLAY_TOOLTIP_MANA_COIN_HEADLINE	Золоті	
+GAMEPLAY_TOOLTIP_MANA_DESCRIPTION	На початку кожного вашого ходу ви отримуєте новий кристал мани і відновлюєте вже наявний резерв.	
+GAMEPLAY_TOOLTIP_MANA_HEADLINE	Кристали мани	
+GAMEPLAY_TOOLTIP_MANA_LOCKED_DESCRIPTION	Кристалів мани <b>перенавантажено</b> минулого ходу: {0}.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_MANA_LOCKED_HEADLINE	Заблоковані кристали	
+GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION	<b>Перенавантажено</b> кристалів мани: {0}.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE	Перенавантаження	
+GAMEPLAY_TOT_109t_STASIS_DRAGON_1	Пробуджується з_<b>«Натиском»</b> за два хода.	
+GAMEPLAY_TOT_109t_STASIS_DRAGON_2	Пробуджується з_<b>«Натиском»</b> за хід.	
+GAMEPLAY_TRLA_TROLL_SHRINE_1	Пробудиться\nза 3 хода.	
+GAMEPLAY_TRLA_TROLL_SHRINE_2	Пробудиться\nза 2 хода.	
+GAMEPLAY_TRLA_TROLL_SHRINE_3	Пробудиться\nза 1 хід.	
+GAMEPLAY_UNDATAKAH1	{0}	
+GAMEPLAY_UNDATAKAH2	{0} і {1}	
+GAMEPLAY_UNDATAKAH3	{0}, {1} та {2}	
+GAMEPLAY_UNKNOWN_CREATED_BY	інша карта	
+GAMEPLAY_WIN_REWARD_PROGRESS	Перемога: {0}/{1}	
+GAMEPLAY_YOUR_TURN	Ваш хід	
