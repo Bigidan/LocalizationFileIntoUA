@@ -9,8 +9,19 @@
 
 * [![ShadowPlay](https://img.shields.io/badge/-ShadowPlay-090909?style=for-the-badge&logo=NVIDIA)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/ShadowPlay)<br/>
 
+* [![DroidCam Client](https://img.shields.io/badge/-ShadowPlay-090909?style=for-the-badge&logo=Andoid)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/DroidCam)<br/>
+
 
 Все, ¯\\_ (o_o) _/¯ інші переклади очікуються...
+
+
+
+
+
+
+
+
+
 
 
 # English<br/>
