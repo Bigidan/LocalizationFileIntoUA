@@ -11,6 +11,8 @@
 
 * [![DroidCam Client](https://img.shields.io/badge/-DroidCam_Client-090909?style=for-the-badge&logo=Android)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/DroidCam)<br/>
 
+* [![Hearthstone](https://img.shields.io/badge/-Hearthstone-090909?style=for-the-badge&logo=Hearthstone)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/Hearthstone)<br/>
+
 
 Все, ¯\\_ (o_o) _/¯ інші переклади очікуються...
 
