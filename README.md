@@ -13,6 +13,7 @@
 
 * [![Hearthstone](https://img.shields.io/badge/-Hearthstone-090909?style=for-the-badge&logo=Battle.net)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/Hearthstone)<br/>
 
+* [![LoopHero](https://img.shields.io/badge/-💀⚔_Loop_Hero-090909?style=for-the-badge)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/LoopHero)<br/>
 
 Все, ¯\\_ (o_o) _/¯ інші переклади очікуються...
 
