@@ -3,17 +3,17 @@
 Застосунки перекладаються у ручну. Вибираються ті застосунки у яких не передбачена Українська мова всі інструкції також є на ютубі(або скоро з'являться) та у папках з локалізаціями конкретних програм
 
 ### Перекладені застосунки:<br/>
-* [![Ubisoft Connect](https://img.shields.io/badge/-Ubisoft_Connect-090909?style=for-the-badge&logo=Ubisoft)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/UbisoftConnect)<br/>
+* [![Ubisoft Connect](https://img.shields.io/badge/-Ubisoft_Connect-090909?style=for-the-badge&logo=Ubisoft)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/UbisoftConnect) Ubisoft Connect<br/>
 
-* [![GeForceExp](https://img.shields.io/badge/-GeForce_Experience-090909?style=for-the-badge&logo=NVIDIA)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/NvidiaGeForceExp)<br/>
+* [![GeForceExp](https://img.shields.io/badge/-GeForce_Experience-090909?style=for-the-badge&logo=NVIDIA)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/NvidiaGeForceExp) GeForceExp<br/>
 
-* [![ShadowPlay](https://img.shields.io/badge/-ShadowPlay-090909?style=for-the-badge&logo=NVIDIA)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/ShadowPlay)<br/>
+* [![ShadowPlay](https://img.shields.io/badge/-ShadowPlay-090909?style=for-the-badge&logo=NVIDIA)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/ShadowPlay) ShadowPlay<br/>
 
-* [![DroidCam Client](https://img.shields.io/badge/-DroidCam_Client-090909?style=for-the-badge&logo=Android)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/DroidCam)<br/>
+* [![DroidCam Client](https://img.shields.io/badge/-DroidCam_Client-090909?style=for-the-badge&logo=Android)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/DroidCam) DroidCam Client<br/>
 
-* [![Hearthstone](https://img.shields.io/badge/-Hearthstone-090909?style=for-the-badge&logo=Battle.net)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/Hearthstone)<br/>
+* [![Hearthstone](https://img.shields.io/badge/-Hearthstone-090909?style=for-the-badge&logo=Battle.net)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/Hearthstone) Hearthstone<br/>
 
-* [![LoopHero](https://img.shields.io/badge/-💀⚔_Loop_Hero-090909?style=for-the-badge)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/LoopHero)<br/>
+* [![LoopHero](https://img.shields.io/badge/-💀⚔_Loop_Hero-090909?style=for-the-badge)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/LoopHero) LoopHero<br/>
 
 Все, ¯\\_ (o_o) _/¯ інші переклади очікуються...
 
