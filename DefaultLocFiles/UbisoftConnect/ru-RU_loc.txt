@@ -1,0 +1,1322 @@
+﻿
+Account.Details	Данные учетной записи
+Account.Management	Управление учетной записью
+AccountInformation.DisplayEmail	Кликните, чтобы показать адрес электронной почты
+AccountInformation.Email	Электронная почта
+AccountInformation.Header	Данные учетной записи
+AccountInformation.OtherDetails	Прочие данные учетной записи:
+AccountInformation.ShowKey	Показывать ключ
+AccountInformation.TrustedDevices	Устройства, которым я доверяю:
+AccountInformation.Username	Имя пользователя:
+AccountInformation.UsernameTip	Имя пользователя должно содержать от 3 до 15 символов.
+AccountInformation.Website	Сайт управления учетной записью Ubisoft
+AccountSecurity.NotSecure	Вашу учетную запись могут взломать. Защитите ее!
+AccountSecurity.NotSecureShort	Рекомендуем усилить защиту учетной записи.
+AccountSecurity.Secure	Ваша учетная запись в безопасности.
+AccountSecurity.SecureShort	Ваша учетная запись в безопасности.
+AccountSecurity.SemiSecure	Вы можете улучшить безопасность своей учетной записи. Займитесь этим прямо сейчас!
+AccountSecurity.SemiSecureShort	Защитите свою учетную запись .
+Achievements.Earned	Открыто
+Achievements.EarnedNotification	Достижение получено
+Actions.BadgeLocked	Значок закреплен
+Actions.BadgeUnlocked	Значок разблокирован
+Actions.Completed	Завершено
+Actions.EnableReward	Активировать награду: __REWARD_NAME__
+Actions.RewardEnabled	__REWARD_NAME__: активирована
+ActivateProduct.ActivateHere	Его можно использовать здесь
+ActivateProduct.HaveAKeyPrompt	У вас есть код активации?
+ActivateProduct.KeyExamples1	AAAA-BBBB-CCCC-DDDD
+ActivateProduct.KeyExamples2	AAA-BBBB-CCCC-DDDD-EEEE
+ActivateProduct.KeyExamplesIntro	Пример кода активации:
+Addon.Install	Установить
+Addon.Play	Играть
+Autorun.AcceptAndContinue	Принять и продолжить
+Autorun.Cancel	Отмена
+Autorun.Change	Обзор
+Autorun.Close	Закрыть
+Autorun.DiskSpaceError	Недостаточно места на диске. Освободите немного места или укажите другой путь для установки.
+Autorun.Install	Установить
+Autorun.Language.csCZ	Čeština
+Autorun.Language.daDK	Dansk
+Autorun.Language.deDE	Deutsch
+Autorun.Language.enCA	English (Canadian)
+Autorun.Language.enGB	English (UK)
+Autorun.Language.enUS	English
+Autorun.Language.esES	Español
+Autorun.Language.esMX	Español (México)
+Autorun.Language.fiFI	Suomi
+Autorun.Language.frCA	Français (Canadien)
+Autorun.Language.frFR	Français
+Autorun.Language.huHU	Magyar
+Autorun.Language.itIT	Italiano
+Autorun.Language.jaJP	日本語
+Autorun.Language.koKO	한국어
+Autorun.Language.nbNO	Norsk
+Autorun.Language.nlNL	Nederlands
+Autorun.Language.plPL	Polski
+Autorun.Language.ptBR	Português brasileiro
+Autorun.Language.ptPT	Português
+Autorun.Language.roRO	Română
+Autorun.Language.ruRU	Русский
+Autorun.Language.ukUA	Українська
+Autorun.Language.svSE	Svenska
+Autorun.Language.thTH	ไทย
+Autorun.Language.trTR	Türkçe
+Autorun.Language.zhCN	简体中文
+Autorun.Language.zhTW	繁體中文
+Autorun.LicenseAgreement	Лицензионное соглашение
+Autorun.Manual	Руководство
+Autorun.Play	Играть
+Autorun.Quit	Выйти
+Autorun.Readme	Readme
+Autorun.Uninstall	Удалить
+Autorun.Uplay.Install	Установить Ubisoft Connect
+Autorun.Uplay.InstallLocation	Путь для установки Ubisoft Connect:
+Autorun.Uplay.Installation	Установка Ubisoft Connect…
+Autorun.Uplay.Intro	Ubisoft Connect — это система, которая объединяет все продукты Ubisoft. Ubisoft Connect позволяет внести разнообразие в игровой процесс, предоставляя доступ к уникальному контенту, функциям социального взаимодействия и особым наградам, а также возможности автоматического обновления игр.
+Autorun.Uplay.Language	Язык:
+Autorun.UplayInstallFailed	Ошибка при установке Ubisoft Connect. Попробуйте еще раз. Если проблема повторится, обратитесь в службу поддержки Ubisoft.
+Beta.AdditionalLink	Узнать больше
+Beta.AlreadyRegistered	Спасибо, но вы уже зарегистрированы! Мы будем отправлять на ваш электронный адрес интересные новости, уведомления и приглашения на события в реальном времени — не пропустите!
+Beta.ConfirmEmailVerified	Подтверждение почты выполнено
+Beta.EmailVerifiedDesc	Мы отправили на вашу электронную почту письмо с инструкцией для подтверждения. Выполните указанные действия и вернитесь на эту страницу, чтобы завершить регистрацию.
+Beta.GetStatusFailed	Невозможно связаться с сервером. Повторите попытку позже.
+Beta.GetStatusFailedHeader	Что-то пошло не так
+Beta.RegisterDesc	Зарегистрировавшись, вы будете получать свежие новости и сможете оказаться среди первых, кто сыграет в игру.
+Beta.ResendEmailDesc	Письмо для подтверждения отправлено на этот электронный адрес:
+Beta.SignUp	Зарегистрироваться (РС)
+Beta.SignUpAlreadyCompleted	Вы уже зарегистрированы! Письма со свежими новостями, информацией о новых анонсах и приглашениями на мероприятия будут приходить на адрес __EMAIL__. Оставайтесь в курсе событий!
+Beta.SignUpCompleted	Спасибо за регистрацию
+Beta.SignUpCompleted.Header	Благодарим за регистрацию в __NAME_OF_GAME__.
+Beta.SignUpCompletedBody	Письма со свежими новостями, информацией об анонсах и приглашениями на мероприятия будут приходить на указанный электронный адрес.
+Beta.SignUpCompletedEmail	Вы зарегистрировались с помощью этого электронного адреса:
+Beta.SignUpCurrentEmail	Регистрация будет выполнена для учетной записи Ubisoft, к которой привязан этот электронный адрес:
+Beta.SignUpEmailValidation	Убедитесь, что адрес указан верно и что у вас есть к нему доступ. Именно на него будут приходить письма с новостями и информацией о мероприятиях.
+Beta.SignUpFailed	Ваш запрос не был принят из-за неполадок в работе сервера. Повторите попытку позже.
+Beta.SignUpFailedHeader	Что-то пошло не так
+Beta.VerifyEmailDesc	Ваш электронный адрес не подтвержден. Чтобы зарегистрироваться, его необходимо подтвердить.
+Broadcast.CapturePresetCustom	Выбрать
+Broadcast.CapturePresetHigh	Высокая
+Broadcast.CapturePresetLow	Низкая
+Broadcast.CapturePresetMedium	Средняя
+Broadcast.DefaultIngestServer	По умолчанию: __REPLACE_URL__
+Broadcast.HideAdvancedSettings	Скрыть дополнительные настройки
+Broadcast.ShowAdvancedSettings	Показать дополнительные настройки
+Challenge.LeftFromPreviousWeek	Осталась __COLLECT__ награда прошлой недели
+Challenges.Completed	Завершено (__COMPLETED__/__TOTAL__)
+Challenges.Congrats	Поздравляем!
+Challenges.Core.Completed	Вы выполнили все испытания: __NUMBER__.
+Challenges.Core.NothingCompleted	Завершите испытания и получите очки опыта.
+Challenges.LeftFromPreviousWeek	Остались награды прошлой недели: __COLLECT__
+Challenges.OnboardingAddAllHeaderTitle	Управляйте испытаниями одним нажатием
+Challenges.OnboardingAddAllInformationText	Теперь вы можете добавить все испытания и получить все награды одним нажатием.
+Challenges.Prize	Награда
+Challenges.SelectChallenge	Выбрать испытание
+Challenges.TimeLimited.Completed	Вы завершили все доступные испытания этой недели и вам достается:
+ChangeGameInstallationPath.AreYouSure	Вы уверены, что хотите продолжить?
+ChangeGameInstallationPath.Description	Игры, установленные в __REPLACE_WITH_GAME_INSTALL_PATH__, не могут быть перемещены.
+ChangeGameInstallationPath.Header	Назначить другую папку для установки игры
+ChangeInstallerCachePath.Description	Установщик в текущем разделе __REPLACE_WITH_DOWNLOADS_FOLDER__ не может быть перемещен в другую папку.
+ChangeInstallerCachePath.Header	Изменить место кэша установщика
+ChangeUsername.Warning	Имя пользователя можно менять не чаще, чем раз в 30 дней.
+ChangeUsernameConfirm.Message	Вы уверены, что хотите изменить имя пользователя?
+ChangeUsernameConfirm.Title	Изменить имя пользователя
+Chat.GameInvite.BuyFromWeGame	Перейдите на WeGame, чтобы купить и установить игру и присоединиться к другу！
+Chat.New.Chat	Новый чат
+Chat.NoGameInvites.Message	У вас нет приглашений или они истекли.
+ChatPanel.ConnectionStatus.Connecting	Соединение…
+ChatPanel.DisabledChatPlaceholder	Чат недоступен для пользователей не из списка друзей.
+ChatPanel.FailedToDeliverMessage	Сообщение не было доставлено.
+ChatPanel.GameInviteText	__USER_NAME__ приглашает вас сыграть в  __GAME_NAME__
+ChatPanel.GameInviteTextPopup	приглашает вас присоединиться
+ChatPanel.InputFieldPlaceholder	Введите сообщение
+ChatPanel.InviteFriendToGameDisabled	Вы не можете пригласить этого друга в свою игру
+ChatPanel.InviteToGameDisabled	Отправить кому-то приглашение можно только во время сетевой игры
+ChatPanel.InviteToToGameDisabledNoOtherGroupMembers	В этой группе нет друзей, которых вы можете пригласить в свою игру
+ChatPanel.NewMessages	Новые сообщения
+ChatPanel.OfflineMessageReceived	Это сообщение было отправлено, когда вас не было в сети, либо его отправил пользователь ubisoftconnect.com или Ubisoft Connect Mobile.
+ChatPanel.PartyInviteText	__USER_NAME__ предлагает сыграть в __GAME_NAME__ и присоединиться к команде
+ChatPanel.PartyInviteTextPopup	приглашает вас вступить в команду
+ChatPanel.RetrieveHistory	Показать историю
+ChatPanel.RetrieveHistoryFailed	Невозможно показать историю
+ChatPanel.TryAgain	Повторить попытку
+ClientBrandedInstaller.FinishMessage	Установка $(brandingProductName) продолжится в ${PRODUCTNAME}
+ClientBrandedInstaller.WelcomeMessage	Установите ${PRODUCTNAME}, чтобы играть в $(brandingProductName)
+ClientInstaller.CheckingPreviousInstallation	Проверка предыдущих установок…
+ClientInstaller.DeleteGamesLabel	Удалить игры Ubisoft Connect (вы сможете получить к ним доступ позднее, после переустановки Ubisoft Connect)
+ClientInstaller.DeleteSavesLabel	Удалить локальные файлы сохранения
+ClientInstaller.LicensePageAcceptButton	Согласен(на)
+ClientInstaller.LicensePageBottomText	Нажав 'Согласен(на)', вы подтверждаете, что прочли и согласны с условиями Лицензионного соглашения.
+ClientInstaller.LicensePageHeaderSubtext	Перед продолжением установки Ubisoft Connect внимательно прочтите условия Лицензионного соглашения.
+ClientInstaller.MoreRecentVersionFound	Более новая версия Ubisoft Connect уже установлена.
+ClientInstaller.UninstallDescription	Приложение Ubisoft Connect будет удалено с вашего компьютера. Нажмите кнопку "Удалить", чтобы приступить к удалению программы.
+ClientInstaller.UplayIsRunningInstall	Приложение Ubisoft Connect запущено. Пожалуйста, закройте его и попробуйте снова.
+ClientInstaller.UplayIsRunningUninstall	Приложение Ubisoft Connect работает и не может быть удалено. Пожалуйста, закройте его и попробуйте снова.
+ClientInstaller.WindowsVersionOutOfDate	Используемая вами версия Windows не поддерживается этим приложением.
+Club.AllRewardsTaken	Все награды для этой игры получены
+Club.Challenges.Add	Добавить
+Club.Challenges.AddAll	Добавить все
+Club.Challenges.ChallengeAvailable	Доступно испытание
+Club.Challenges.ChallengeInProgress	Текущее испытание
+Club.Challenges.ChallengeProgression	Счет:
+Club.Challenges.ChallengesAvailable	Доступны испытания
+Club.Challenges.ChallengesInProgress	Текущие испытания
+Club.Challenges.ClassicChallengesCurrentlyNotAvailable	Основные испытания в данный момент недоступны.
+Club.Challenges.ClassicChallengesNotAvailable	Основные испытания в данный момент недоступны. Попробуйте позже.
+Club.Challenges.Collect	Получить
+Club.Challenges.CollectAll	Получить все
+Club.Challenges.CollectYourPrize	Получите свою награду
+Club.Challenges.Collected	Получено
+Club.Challenges.CommunityChallenge	Испытание сообщества
+Club.Challenges.CommunityChallengesCurrentlyNotAvailable	Испытания сообщества в данный момент недоступны. Попробуйте вернуться позже.
+Club.Challenges.CommunityProgression	Счет сообщества:
+Club.Challenges.EventChallenge	Испытание особого события
+Club.Challenges.Expired	Время истекло
+Club.Challenges.NextChallengesAvailableSoon	Новые испытания - уже скоро!
+Club.Challenges.PlayerParticipationRequired	Участвуйте, чтобы получить эксклюзивные награды.
+Club.Challenges.PlayerProgression	Ваш вклад: 
+Club.Challenges.PrizeToCollect	Можно забрать награду
+Club.Challenges.PrizesToCollect	Можно забрать награды
+Club.Challenges.ThresholdCollect	Получить: __COMPLETED__/__TOTAL__
+Club.Challenges.WeeklyChallengesCurrentlyNotAvailable	Краткосрочные испытания в данный момент недоступны. Попробуйте позже.
+Club.Challenges.WeeklyChallengesNotAvailableForGame	Краткосрочные испытания недоступны для этой игры.
+Club.Classic	Основные
+Club.ClassicChallenges	Основные испытания
+Club.Level	Уровень __LEVEL__
+Club.Weekly	Краткосрочные
+Club.WeeklyChallenges	Краткосрочные испытания
+Club.XP	XP
+Club.XPToNextLevel	до след. ур.: __XP_TO_NEXT_LEVEL__
+Common.About	Подробнее
+Common.Accept	Принять
+Common.AcceptAndContinue	Принять и продолжить
+Common.Achievements	Достижения
+Common.Actions	Действия
+Common.ActivateAnotherProduct	Активировать другой ключ
+Common.AllGames	Все игры
+Common.Apply	Применить
+Common.Back	Назад
+Common.Beta	Бета
+Common.Browser	Браузер
+Common.Buy	Купить
+Common.BytesPerSecond	Б/с
+Common.Cancel	Отмена
+Common.Categories	Категории
+Common.ChangeLater	Это можно изменить в параметрах.
+Common.Chat	Чат
+Common.ClearAll	Очистить все
+Common.Close	Закрыть
+Common.ComingSoon	Скоро
+Common.Community	Сообщество
+Common.Compact	Уменьшить
+Common.Completed	Завершено
+Common.Continue	Продолжить
+Common.ControllerConnected	Контроллер подключен
+Common.ControllerDisconnected	Контроллер отключен
+Common.Conversation	Беседа
+Common.Copy	Скопировать
+Common.CrashMsg1	Сервис Ubisoft Connect обнаружил неустранимую ошибку и вынужден отключиться.
+Common.CrashMsg2	Файл об ошибке был создан в "__CRASH_DUMP_PATH__".
+Common.Custom	Пользоват.
+Common.Decline	Отклонить
+Common.Discard	Отклонить
+Common.Done	Готово
+Common.Edit	Изменить
+Common.EmailLabel	Адрес электронной почты:
+Common.Expanded	Увеличить
+Common.Filter	Фильтр
+Common.Forum	Форум
+Common.Friends	Друзья
+Common.GameInvites	Приглашения в игру
+Common.Genre	Жанр:
+Common.GigaBytes	ГБ
+Common.GoToTop	Наверх
+Common.Goal	Цель:
+Common.Groups	Группы
+Common.Highlights	Специальные новости
+Common.InProgress	Активно
+Common.Invite	Пригласить
+Common.KiloBytes	КБ
+Common.KiloBytesPerSecond	КБ/с
+Common.LatestNews	Последние новости
+Common.LaunchGame	Запустить игру
+Common.LoadMore	Загрузить еще
+Common.LoadPrevious	Загрузить предыдущие
+Common.Loading	Загрузка…
+Common.Manage	Изменить
+Common.MegaBytes	MБ
+Common.MegaBytesPerSecond	MБ/с
+Common.MoreInformation	Подробнее
+Common.No	Нет
+Common.Notifications	Уведомления
+Common.OK	ОК
+Common.Off	Выкл.
+Common.On	Вкл.
+Common.OpenFolder	Открыть папку
+Common.Other	Прочее
+Common.Party	Команда
+Common.PasswordLabel	Пароль:
+Common.Paste	Вставить
+Common.PleaseContactUbisoftSupport	Если проблема сохранится, вас сможет проинструктировать __UBISOFT_SUPPORT__.
+Common.PleaseTryAgain	Повторите попытку
+Common.Preload	Предв. загрузка
+Common.Preloaded	Загружено
+Common.Preloading	Идет предв. загрузка
+Common.Quit	Выйти
+Common.RecentlyPlayed	Последние игры
+Common.ReleaseDate	Дата выхода:
+Common.Reminder	Напоминание:
+Common.ResendEmail	Отправить письмо повторно
+Common.ResendEmailDesc	Письмо повторно отправлено на этот адрес электронной почты:
+Common.Reset	Сброс
+Common.RestartNow	Перезагрузка
+Common.RestartUplay	Перезапустить Ubisoft Connect
+Common.Retry	Попробуйте снова
+Common.Rewards	Награды
+Common.Save	Сохранить
+Common.Search	Поиск
+Common.SelectAll	Выбрать все
+Common.SelectNone	Снять все
+Common.Settings	Настройки
+Common.Shop	Store
+Common.ShoppingCart	Корзина
+Common.ShowAll	Показать все
+Common.Skip	Пропустить
+Common.SortBy	Отсортировать:
+Common.SortByAZ	По алфавиту
+Common.SortStatus	По статусу
+Common.StartVoiceChat	Голосовой чат
+Common.Status	Статус:
+Common.Status.Off	Выкл.
+Common.Status.On	Вкл.
+Common.SupportArticle	статью службы поддержки
+Common.TimeLeft	Осталось __TIME__ 
+Common.TimespanHours	__HOURS__ ч.
+Common.TimespanHoursMinutes	__HOURS__ ч __MINUTES__ мин
+Common.TimespanMinutes	__MINUTES__ мин
+Common.Total	Итого
+Common.TryAgain	Попробовать снова
+Common.TryAgainOrCustomerSupport	Повторите попытку или обратитесь в службу поддержки.
+Common.UbisoftSupport	Служба поддержки Ubisoft
+Common.Units	Units
+Common.Unlink	Отменить привязку
+Common.UpdateEmail	Указать другой электронный адрес
+Common.Uplay	Ubisoft Connect
+Common.UplayInstaller	Установщик Ubisoft Connect
+Common.View	Просмотр
+Common.VisitShop	Посетите Store
+Common.WeGame	WeGame
+Common.Yes	Да
+CommunicationPreferences.Header	Настройки обмена информацией
+CommunityStats.Title	Статистика сообщества
+CrashReporter.DontAskAgainLabel	Больше не просить отправлять отчеты.
+CrashReporter.Error	Непредвиденные проблемы. Отчет невозможно отправить.
+CrashReporter.Info	В работе игры __GAME_NAME__ произошла ошибка. Сообщите нам об этом, чтобы мы выяснили причину.
+CrashReporter.SendBtn	Отчет отправлен.
+CrashReporter.Sending	Отправляем отчет...
+CrashReporter.Success	Отчет отправлен. Спасибо за помощь!
+CrashReporter.SuccessInfo	Информация, которую вы отправили, будет использована для того, чтобы изучить потенциальные проблемы и получить данные, которые помогут нам их решить.
+CrashReporter.Title	О нет, приложение прекратило работу!
+CrashReporter.UserInputDescription	Опишите вкратце, что вы делали, когда в работе программы произошел сбой.
+CreateAccount.Button	Создать учетную запись
+CreateAccount.InfoSharingTitle	Предоставление информации
+CreateAccountRegistration.AcceptAllTermsLabel	Я принимаю необходимые условия (__TERMS_OF_USE__, __TERMS_OF_SALE__ и __PRIVACY_POLICY__ Ubisoft).
+CreateAccountRegistration.AgeRestriction	К сожалению, вы не соответствуете требованиям для создания учетной записи Ubisoft.
+CreateAccountRegistration.DateDescription	Дата рождения
+CreateAccountRegistration.DayDescription	День
+CreateAccountRegistration.EmailDescription	E-mail
+CreateAccountRegistration.EmailInvalidError	Введите существующий адрес электронной почты.
+CreateAccountRegistration.EmailNotAvailableError	Учетная запись Ubisoft с указанным адресом электронной почты уже существует. Если вы забыли пароль, попробуйте восстановить его на экране входа в систему или используйте другой адрес электронной почты.
+CreateAccountRegistration.EmailTip	Может использоваться для восстановления пароля.
+CreateAccountRegistration.FailureServiceUnavailable	Не удается создать учетную запись, повторите попытку позже.
+CreateAccountRegistration.Header	Создать учетную запись Ubisoft
+CreateAccountRegistration.LabelOptin3rdParty	Поделиться информацией с __SELECT_3RD_PARTY__.
+CreateAccountRegistration.LabelOptinUbisoft	Я хочу получать рассылку новостей с предложениями от Ubisoft. Я могу отказаться от подписки в любой момент.
+CreateAccountRegistration.LabelOptinUbisoftNoteGermany	Ubisoft может присылать вам письма о продуктах и сервисах, схожих с уже приобретенными. Вы можете бесплатно отказаться от этой услуги в любой момент.
+CreateAccountRegistration.MonthApril	Апрель
+CreateAccountRegistration.MonthAugust	Август
+CreateAccountRegistration.MonthDecember	Декабрь
+CreateAccountRegistration.MonthDescription	Месяц
+CreateAccountRegistration.MonthFebruary	Февраль
+CreateAccountRegistration.MonthJanuary	Январь
+CreateAccountRegistration.MonthJuly	Июль
+CreateAccountRegistration.MonthJune	Июнь
+CreateAccountRegistration.MonthMarch	Март
+CreateAccountRegistration.MonthMay	Май
+CreateAccountRegistration.MonthNovember	Ноябрь
+CreateAccountRegistration.MonthOctober	Октябрь
+CreateAccountRegistration.MonthSeptember	Сентябрь
+CreateAccountRegistration.PasswordDescription	Пароль
+CreateAccountRegistration.PasswordHideTooltip	Скрыть пароль
+CreateAccountRegistration.PasswordLengthError	Ваш пароль должен содержать от 8 до 16 символов
+CreateAccountRegistration.PasswordLettersDigitsError	Пароль должен содержать и буквы, и цифры.
+CreateAccountRegistration.PasswordShowTooltip	Показать пароль
+CreateAccountRegistration.PasswordStrength_Better	неплохая
+CreateAccountRegistration.PasswordStrength_Medium	средняя
+CreateAccountRegistration.PasswordStrength_Strong	высокая
+CreateAccountRegistration.PasswordStrength_VeryStrong	крайне высокая
+CreateAccountRegistration.PasswordStrength_VeryWeak	крайне малая
+CreateAccountRegistration.PasswordStrength_Weak	малая
+CreateAccountRegistration.PasswordTip	Должен содержать от 8 до 16 символов, и включать как буквы, так и цифры.
+CreateAccountRegistration.PasswordUnicodeCharactersError	Пароль может содержать буквы A-Z, a-z и цифры 0-9.
+CreateAccountRegistration.PrivacyPolicy	Политика конфиденциальности
+CreateAccountRegistration.Select3rdParty	выберите сторонние компании
+CreateAccountRegistration.TermsOfSale	Условия продажи
+CreateAccountRegistration.TermsOfUse	Условия использования
+CreateAccountRegistration.TosAcceptButton	Продолжить
+CreateAccountRegistration.Under18Error	Создать учетную запись Ubisoft могут только лица старше 18 лет.
+CreateAccountRegistration.UsernameBadFormatError	Это имя пользователя не может быть использовано.
+CreateAccountRegistration.UsernameDescription	Имя пользователя
+CreateAccountRegistration.UsernameInvalidLettersError	Имя пользователя должно начинаться с буквы и не должно содержать специальные символы.
+CreateAccountRegistration.UsernameLengthError	Имя пользователя должно содержать от 3 до 15 символов.
+CreateAccountRegistration.UsernameRestrictedWordError	Это имя пользователя запрещено, так как содержит запрещенные слова.
+CreateAccountRegistration.UsernameTakenError	Пользователь с таким именем уже существует.
+CreateAccountRegistration.UsernameTip	Должно содержать от 3 до 15 символов и может включать как буквы, так и цифры. Нельзя использовать специальные символы и пробелы.
+CreateAccountRegistration.UsernameWithinPasswordError	В пароле не должно содержаться имя пользователя. Попробуйте снова.
+CreateAccountRegistration.YearDescription	Год
+DeleteInstallers.AreYouSure	Уверены, что хотите продолжить?
+DeleteInstallers.Description	Будут удалены установщики в следующем разделе:
+DeleteInstallers.DoNotDelete	Не удаляйте установщик во время установки игры.
+DeleteInstallers.Header	Удалить все установщики игр
+DeviceName.Label	Название устройства
+DeviceName.RequiredError	Требуется
+DiscNeeded.Change	Обзор
+DiscNeeded.Header	Вставьте диск __GAME_NAME__
+DiscNeeded.InsertDisc	Вставьте диск __DISC_NUMBER__ и нажмите ОК
+DiskSpaceError.Description	На диске недостаточно места, чтобы завершить установку. Освободите место на диске или установите игру в другую папку и повторите попытку.
+DiskSpaceError.Header	Недостаточно места на диске
+DisplayName.Edit	Изменить имя пользователя
+DisplayName.NewName	Новое имя пользователя:
+Download.RemainingTimeUnderAMinute	Почти готово
+Download.Restart	Начать заново
+Download.UnknownTimeLeft	Больше месяца
+DownloadManager.ChangeLanguageWarning	После смены языка может потребоваться загрузка дополнительных файлов. Возможно, до завершения этого процесса игру не удастся запустить.
+DownloadManager.DiskAccessError	Ошибка загрузки: нет доступа к диску.
+DownloadManager.DiskWriteError	Загрузка прекращена из-за ошибки записи диска.
+DownloadManager.OptionalFilesInfo	Запуск игры возможен при наличии всех требуемых файлов.
+DownloadManager.OptionalFilesMayBeRequired	Без дополнительных файлов некоторые функции могут оказаться недоступными.
+DownloadManager.PatchAvailable.Download	Установить обновление
+DownloadManager.PatchAvailableHeader	Доступно обновление
+DownloadManager.PatchErrorHeader	Не удалось обновить игру
+DownloadManager.PatchRequiredHeader	Требуется обновление
+DownloadManager.PlayOffline	Играть оффлайн
+DownloadManager.UninstallAreYouSure	Вы уверены, что хотите продолжить?
+DownloadManager.UninstallDescription	Вы собираетесь удалить __GAME_NAME__. Чтобы играть снова, вам придется заново загрузить ее.
+DownloadManager.UninstallFailedDescription	Некоторые файлы не могут быть удалены, потому что они используются __GAME_NAME__. Выйдите из игры и повторите попытку.
+DownloadManager.UninstallFailedHeader	Невозможно удалить игру
+DownloadManager.UninstallHeader	Удаление __GAME_NAME__
+DownloadManager.UninstallSuccess	Игра успешно удалена.
+DownloadManager.Uninstalling	Удаление __GAME_NAME__ …
+Downloads.CancelButton	Отменить
+Downloads.Cancelled	Прервано
+Downloads.DiscoveringFiles	Подготовка файлов
+Downloads.EmptyView	Активных загрузок нет
+Downloads.InstallationsEmptyView	Нет игр в процессе установки
+Downloads.InstallationsTitle	Установка
+Downloads.Installing	Установка…
+Downloads.MoveToTop	Наверх
+Downloads.OpenFolderButton	Открыть папку
+Downloads.PauseButton	Пауза
+Downloads.Queued	Ожидание
+Downloads.RemoveFromList	Убрать из списка
+Downloads.ResumeButton	Продолжить
+Downloads.RetryButton	Попробовать снова
+Downloads.Title	Загрузки
+Downloads.ViewAll	Показать все загрузки
+FetchingOptInFailed.Info	Во время загрузки настроек обмена информацией что-то пошло не так, поэтому они вернулись к значению по умолчанию. Если вы хотите изменить их, зайдите на сайт управления учетной записью Ubisoft после создания учетной записи.
+FooterPanel.DownloadingCompleted	Загрузка завершена
+FrameMenu.Downloads	ЗАГРУЗКИ
+Free.ActivateProduct	Активировать продукт
+Free.AddToMyGames	Добавить в Мои Игры
+Free.PageHeading	Бесплатные игры
+FreeWeekend.EndedHeader	Это игровое событие закончилось.
+FreeWeekend.EndedMessage	Спасибо за участие! Если вам понравилось играть, вы можете купить полную версию игры.
+FriendSelectionDialog.Header	Выбрать друга
+Friends.EditNickname	Изменить прозвище
+Friends.FriendsSuggestionsHeader	Вы можете знать
+Friends.FriendsSuggestionsUnknownSubHeader	Вы можете знать этих игроков
+Friends.InviteFriends	Пригласить друзей
+Friends.InviteSent	Приглашение отправлено
+Friends.JoinGameAlreadyJoined	Вы уже присоединились к этой игре.
+Friends.JoinGameDisabledInfo	Вы сможете присоединиться, когда будет доступна сессия
+Friends.JoinGameNotPlayable	Установите игру или последнее обновление, чтобы присоединиться
+Friends.NoAvailable	Нет друзей, которых можно было бы пригласить
+Friends.Requests	Ожидание подтверждения
+Friends.SensitiveNickname	  
+Friends.SetNickname	Добавить прозвище
+FriendsGroups.Header	Друзья и группы
+FriendsModule.FriendsHavePlayed	Друзья, игравшие в эту игру
+FriendsModule.FriendsHavePlayedNumber	Друзья (__NUMBER__) играли в эту игру:
+FriendsModule.HasNoFriends	Играть с друзьями намного веселее – сформируйте свой список!
+FriendsModule.InGameHeaderText	Друзья (__NUMBER__) сейчас играют в эту игру:
+FriendsModule.NoFriendsHavePlayed	Ни один из ваших друзей не играл в эту игру
+FriendsModule.NoFriendsInGame	Никто из друзей не находится в этой игре сейчас.
+FriendsModule.WhoIsOnline	Узнайте, кто в сети
+FriendsPanel.ActivityAway	Нет на месте
+FriendsPanel.ActivityBusy	Не беспокоить
+FriendsPanel.ActivityInvisible	Невидимка
+FriendsPanel.AddToBlacklist	Заблокировать
+FriendsPanel.CancelFriendshipRequest	Отменить запрос на добавление в друзья
+FriendsPanel.CancelGroupInvite	Отменить приглашение
+FriendsPanel.Category.Blocked	Заблокировано
+FriendsPanel.Category.SentRequests	Отправленные запросы
+FriendsPanel.ConnectionStatus.Connecting	Соединение…
+FriendsPanel.Empty.Header	Вы еще не добавили ни одного друга.
+FriendsPanel.FriendshipRequestText	хочет добавить Вас в друзья
+FriendsPanel.GameInviteText	__INVITER_NAME__ пригласил вас в игру
+FriendsPanel.Header	Друзья
+FriendsPanel.InvisibleExplanation	Появляются в режиме «оффлайн» для других игроков.
+FriendsPanel.InviteToGame	Пригласить друга в игру
+FriendsPanel.JoinGame	Присоединиться к игре
+FriendsPanel.PresenceInGame	В игре
+FriendsPanel.PresenceOffline	Оффлайн
+FriendsPanel.PresenceOnline	Онлайн
+FriendsPanel.RemoveFriend	Удалить друга
+FriendsPanel.RemoveFromBlacklist	Разблокировать
+FriendsPanel.RequestSent	Запрос отправлен
+FriendsPanel.Search.AddFriend	Добавить в друзья
+FriendsPanel.Search.AlreadyFriendsLabel	Этот пользователь является вашим другом
+FriendsPanel.Search.Info	Введите имя друга
+FriendsPanel.Search.NoMatch	Совпадений не обнаружено
+FriendsPanel.StartChat	Начать чат
+Game.AchievementsSyncError	Не удалось синхронизировать достижения.
+Game.AchievementsSyncStatus	Синхронизация ваших Достижений с Облачным сервисом Uplay
+Game.BindFreeGameTitle	Нажав «Продолжить», вы привяжете игру к своей учетной записи Ubisoft и сможете запустить ее из списка игр на любом компьютере.
+Game.CdKeyInputPlaceholder	Код активации
+Game.ChangeLanguageLabel	Выберите язык для данной игры:
+Game.ContinueDownload	Продолжить загрузку
+Game.DownloadFailure	Ошибка при загрузке
+Game.DownloadGame	Загрузить
+Game.DownloadPaused	Загрузка приостановлена
+Game.DownloadRecommended	Рекомендуется устанавливать самые свежие обновления игр. Это позволит насладиться наиболее совершенной версией контента и воспользоваться сетевыми функциями игры.
+Game.DownloadRequiredOnlineOnly	Доступно обновление, необходимое для запуска игры. Выполните установку, чтобы продолжить.
+Game.DownloadSpeed	Скорость загрузки:
+Game.Downloading	Загрузка
+Game.DownloadingTimeLeftValue	__REPLACE_ME_WITH_DAYS__ д. __REPLACE_ME_WITH_HOURS__ ч. __REPLACE_ME_WITH_MINUTES__ мин.
+Game.EnterKey.ActivatedGame	Игра __GAME_NAME__ добавлена в ваш список.
+Game.EnterKey.ItIncludes	Включает:
+Game.EnterKeyActivate	Активировать
+Game.EnterKeyActivatedOn	Активирован:
+Game.EnterKeyCancelButton	Отмена
+Game.EnterKeyDetails	Игра будет привязана к учетной записи __ACCOUNT_EMAIL__. После активации вы не сможете привязать игру к другой учетной записи, поэтому убедитесь, что адрес указан верно.
+Game.EnterKeyFailureBannedKey	Этот ключ продукта или код активации заблокирован. Для получения дальнейшей информации обратитесь в службу поддержки Ubisoft.
+Game.EnterKeyFailureBannedUser	Эта функция временно заблокирована после нескольких неудачных попыток активации. Активация будет вновь доступна через  __MIN__ мин.
+Game.EnterKeyFailureNotFound	Неверный ключ продукта или код активации. Попробуйте снова.
+Game.EnterKeyFailureServiceUnavailable	Не удается зарегистрировать эту игру в вашей учетной записи Ubisoft, так как сервер Ubisoft временно недоступен. Повторите попытку позже.
+Game.EnterKeyFailureUsedByOtherAccount	Этот ключ или код активации был использован в другой учетной записи Ubisoft. За дополнительной информацией обратитесь в службу поддержки Ubisoft.
+Game.EnterKeyFailureUsedByThisAccount	Этот ключ или код активации уже используется на вашей учетной записи — просмотрите раздел «Игры».
+Game.EnterKeyGameAlreadyOwned	У вас уже есть эта игра.
+Game.EnterKeyHeading	Введите ключ продукта или код активации:
+Game.EnterKeyMainTitle	Активация продукта
+Game.EnterKeyNoLongerAvailable	Срок действия введенного ключа или кода активации истек. За дополнительной информацией обратитесь в службу техподдержки Ubisoft.
+Game.EnterKeyNotAvailableInRegion	К сожалению, данный код невозможно активировать в Вашем регионе. Пожалуйста, обратитесь по месту приобретения товара за разрешением возникшей ситуации.
+Game.EnterKeyNotAvailableYet	Этот ключи или код активации нельзя использовать – следует дождаться дня выхода. За дополнительной информацией обратитесь в службу техподдержки Ubisoft.
+Game.EnterKeyWarning	Введите код в точности так, как он изображен. Нажмите "Активировать", чтобы привязать контент к вашей учетной записи (__ACCOUNT_EMAIL__). Убедитесь, что вы вошли именно в ту учетную запись, к которой хотите привязать игру.
+Game.Expired	Недоступно
+Game.FacebookLink	Facebook
+Game.ForumLink	Форум
+Game.GameChallengesTitle	Испытания
+Game.GameIsNotAvailableInCurrentRegion	Игра не предназначена для вашего региона, либо используется прокси-сервер. Пожалуйста, отключите прокси-соединение в настройках Ubisoft Connect и попробуйте снова. Для более подробной информации свяжитесь со службой технической поддержки Ubisoft.
+Game.GameNewsTitle	Новости игры
+Game.GameRewardsTitle	Награды
+Game.GameServiceUnavailableHeader	Служебное сообщение
+Game.GameServiceUnavailableText	Некоторые из сетевых функций игры в данный момент могут быть недоступны.
+Game.GetMoreDLC	Получите другие DLC
+Game.GetTheFullGame	Купить полную версию
+Game.GoOnlineToRegisterGame	Перейдите в онлайн чтобы активировать игру
+Game.HelpLink	Помощь
+Game.Hidden	Скрытое
+Game.InitializingDownload	Начало загрузки
+Game.InitializingOrbit	Инициализация
+Game.Install	Установить
+Game.InstallFailure	Ошибка при установке
+Game.InstallFailureTryAgainButton	Попробовать снова
+Game.InstallFailureVerifyButton	Проверить файлы
+Game.Installing	Установка
+Game.LocateGameInstall	Найти установленную игру
+Game.MarkAsFavourite	Добавить в список "Избранное".
+Game.MarkAsHidden	Скрыть
+Game.News	Новини
+Game.OfficialWebsiteLink	Официальный сайт
+Game.OwnedDLCTitle	Приобретенные DLC
+Game.Play	Играть
+Game.Playable	Доступно
+Game.PreorderDescription	Данная игра пока недоступна. Вы сможете начать играть в день ее выхода.
+Game.PreorderHomepageIntro	Для просмотра обновлений, трейлеров и снимков экрана перейдите на официальный сайт игры:
+Game.PreorderPreloadDescription	Загрузка начнется
+Game.PreorderedHeader	Сделан предзаказ этой игры. Дата выхода:
+Game.RemoveFromFavourites	Удалить из списка "Избранное".
+Game.RemoveFromHidden	Показать в списке игр
+Game.RestartRequiredHeader	Необходимо перезагрузить компьютер
+Game.RestartRequiredText	Для завершения установки игры необходимо перезагрузить компьютер. Без перезагрузки могут возникнуть проблемы с запуском игры.
+Game.RollbackCloudSaveLink	Восстановить сохранение в облаке
+Game.SaveGame.Conflict.CloudSavegame	Облачное сохранение
+Game.SaveGame.Conflict.Description	Локальный файл сохранения не синхронизирован с файлом в облаке. Выберите, какой файл следует использовать.
+Game.SaveGame.Conflict.Hint	Если вы выбрали функцию сохранения в облаке, на локальном диске будут созданы резервные копии файла. Чтобы их восстановить, нажмите кнопку "Играть" в меню запуска игры.
+Game.SaveGame.Conflict.LocalSavegame	Сохранение на ПК
+Game.SaveGame.Rollback.Description	При ошибке сохранения в облаке была создана резервная копия файла на локальном диске. Вы можете загрузить этот файл в облако, чтобы устранить ошибку. Внимание: предыдущее сохранение будет перезаписано!
+Game.SaveGame.Rollback.Failure	Не удалось восстановить сохраненную игру. Возможно, файл на локальном диске поврежден.
+Game.SaveGame.Rollback.Header	Восстановление сохранения в облаке
+Game.SaveGame.Rollback.LastBackupDescription	Локальный файл сохранения: __BACKUP_TIMESTAMP__
+Game.SaveGame.Rollback.Success	Файл сохранения восстановлен: __BACKUP_TIMESTAMP__
+Game.SaveGame.StorageConflict.Description	При загрузке последнего файла сохранения из облака произошла ошибка. Возможно, данный файл устарел.
+Game.SaveGameSyncError	Ошибка синхронизации облачного сохранения
+Game.SavegameSyncStatus	Синхронизация ваших сохраненных игр с "Облачным сервисом"
+Game.StartGameFailed	Не удается запустить игру. Проверьте правильность установки игры. Если данная проблема повторится, обратитесь в службу поддержки Ubisoft.
+Game.StartGameFailedCheckOnline	Не удается запустить игру. Проверьте, не возникло ли неполадок при установке игры. Если установка выполнена корректно, попробуйте перезапустить Ubisoft Connect в режиме онлайн и убедитесь, что вы установили свежие обновления для данной игры. Если решить проблему не удалось, обратитесь в службу поддержки Ubisoft.
+Game.StartGameFailedSuspended	Для вас ограничен доступ к __GAME_NAME__ из-за нарушений условий использования. Чтобы узнать больше, свяжитесь со службой поддержки. 
+Game.Submenu.BackToMyGames	К играм
+Game.Submenu.Favourites	Избранное
+Game.Submenu.Grid	Сетка
+Game.Submenu.GridLarge	Крупные
+Game.Submenu.GridMedium	Средние
+Game.Submenu.GridSmall	Небольшие
+Game.Submenu.Installed	Установленные
+Game.Submenu.List	Список
+Game.Submenu.ListNarrow	Сделать уже
+Game.Submenu.ListWide	Сделать шире
+Game.Submenu.More	Доп.
+Game.Support	Поддержка
+Game.Thumb.DlcTip	Загружаемый контент
+Game.Thumb.UpdateGame	Обновить
+Game.TimeLeftUntilPlayable	Доступно через:
+Game.TimeRemaining	Осталось времени:
+Game.UnavailableButton	Недоступно
+Game.UninstallLink	Удалить
+Game.UpdatingOrbitConfiguration	Загрузка файлов игры Ubisoft Connect
+Game.UpdatingOrbitFailure	Не удается загрузить файлы игры Ubisoft Connect
+Game.ViewAllChallengesLink	Показать все испытания
+Game.ViewAllRewardsLink	Показать все Награды
+Game.ViewDetails	Подробности об игре
+GameEvents.Title	События
+GameExeSelection.Text	Выберите версию игры, которую вы хотите запустить. Для получения дальнейшей информации ознакомьтесь с руководствами игры.
+GameOptions.AddPreset	Добавить предустановку
+GameOptions.DeletePresetHeader	Удалить предустановку
+GameOptions.DeletePresetText	Вы уверены, что хотите удалить предустановку?
+GameOptions.Description	Добавить описание
+GameOptions.GameOptionsEditDescription	Изменить описание
+GameOptions.OverwritePresetHeader	Изменить предустановку
+GameOptions.OverwritePresetText	Предустановка с таким именем уже существует. Хотите перезаписать ее?
+GameOptions.PresetLocationPath	Файл предустановок сохранен: __LOCATION__PATH__
+GameOptions.Presets	Предустановка
+GameOptions.ResetHeader	По умолчанию
+GameOptions.ResetText	Вы уверены, что хотите вернуться к настройкам по умолчанию? <br> Несохраненные изменения будут потеряны.
+GameOptions.SelectAddDescription	Выбрать или добавить предустановку
+GameProperties.AddGameStartArguments	Добавить параметры запуска игры
+GameProperties.DefaultVersionLabel	Версия игры не выбрана
+GameProperties.GameInfo.DisplayManual	Руководство
+GameProperties.GameInfo.DisplayReadme	Readme-файл
+GameProperties.GameInstallLocation	Установить игру:
+GameProperties.GameStartArguments	Параметры запуска игры
+GameProperties.GameStartArgumentsInfo	Данная функция позволяет вам использовать дополнительные параметры при запуске игры.
+GameProperties.GameVersion	Версия игры
+GameProperties.LocalFiles	Сохраненные файлы
+GameProperties.LocalFilesOpenDirError	У сервиса Ubisoft Connect нет доступа к папке с игрой. Удостоверьтесь, что папка существует и в данный момент не используется.
+GameProperties.SelectVersionInfo	Пробные версии позволяют разработчикам тестировать обновления и новые функции игры внутри сообщества до официального выхода.
+GameProperties.SelectVersionLabel	Выберите пробную версию игры:
+GameProperties.Title	Параметры игры
+GameProperties.UnlockGameVersionFailed	Произошла ошибка. Данная версия не может быть разблокирована.
+GameProperties.UnlockTestVersion	Разблокировать пробную версию
+GameProperties.UnlockVersionInfo	Если у вас есть пароль для доступа к пробной версии, нажмите эту кнопку и введите его.
+GameProperties.UnlockVersionPasswordError	Неверный пароль
+GameProperties.UnlockVersionSuccess	Версия игры __VERSION_NAME__ разблокирована и добавлена в ваш список.
+GameProperties.VersionNotAvailable	Выбранная версия игры недоступна
+GameSplash.AchievementsTitle	Достижения
+GameSplash.BuyAdditionalContent	Приобретите дополнительный контент для этой игры
+GameSplash.DLCTitle	DLC
+GameSplash.MenuItemAchievements	Достижения
+GameSplash.MenuItemDeluxeContent	Премиум-контент
+GameSplash.MenuItemOverview	Обзор
+GameSplash.MenuItemShop	Магазин
+GameSplash.OverviewTitle	Обзор
+GameSplash.Statistics	Статистика
+GameSplash.StatisticsViewAll	Дополнительная статистика
+GameStart.LocateGameFolder	Указать адрес
+GameStart.LocateGameFolderInfo	Если вы перемещали файлы игры, укажите папку, в которой они находятся.
+GameStart.OculusClientRequired	Требуется запустить в клиенте Oculus
+GameStart.PasswordRequired.Error	Неправильный пароль. Повторите попытку.
+GameStart.Title	Запуск игры
+GameStream.GoToChannel	Больше трансляций
+GameVerify.Done	Все файлы проверены и обновлены!
+GameVerify.HasCorruptedFiles	Мы обнаружили несколько поврежденных файлов. Выберите пункт "Восстановить", чтобы устранить проблему.
+GameVerify.MainHeader	Проверка загруженных файлов
+GameVerify.Repair	Восстановить
+Gamepage.Store.DLC	DLC
+Gamepage.Store.Merchandise	Сувенирная продукция
+GamepageItemEvents.Empty	Нет доступных событий
+GamepageItemNews.Empty	Нет доступных новостей
+GamepageItemStream.Empty	Нет доступных роликов или трансляций
+Games.NoGamesDescription	Купленные вами игры появятся в этом разделе. Сейчас у вас нет игр, но все лучшие игры компании Ubisoft можно найти в магазине Ubisoft Store.
+Games.NoGamesHeader	Ваши игры появятся здесь
+General.ActionFailed	В настоящий момент не удается завершить операцию. Пожалуйста, попробуйте позже
+GeneralError.CannotActivate	Сейчас этот продукт нельзя активировать, повторите попытку позже.
+GeneralError.DLLVersionMismatch	Несовпадение версии DLL-файла.
+GeneralError.NetworkDisconnect	Невозможно подключиться к интернету. Пожалуйста, проверьте настройки сети. Мы постараемся устранить проблему как можно скорее.
+GeneralError.PleaseCheckUplayInstalled	Убедитесь, что приложение Ubisoft Connect установлено.
+GeneralError.ServiceDisconnect	Невозможно установить соединение со службой Ubisoft Connect. Мы постараемся устранить проблему как можно скорее.
+GeneralError.ServiceDisconnectGamesAvailable	Соединение было прервано, но мы восстановим его после запуска игр. Пока этого не произойдет, некоторые функции клиента могут отображаться некорректно.
+GeneralError.UnableDetectUplay	Не удалось обнаружить приложение Ubisoft Connect.
+GeneralError.UnableStartGame	Невозможно запустить игру
+GetPassword.Header	Введите пароль
+Groups.AddFriendsLabel	Можно добавить друзей: __COUNT__
+Groups.AddFriendsLimitLabel	Достигнут лимит группы. Вы не можете добавить больше друзей.
+Groups.AddToGroup	Добавить в группу
+Groups.CreateGroup	Создать группу
+Groups.GroupName	Название
+Groups.HeaderTitle	Соберите всех друзей!
+Groups.InformationText	Данная функция позволяет быстро объединяться с друзьями и поддерживать связь с помощью группового чата
+Groups.InviteFriends	Пригласить друзей
+Groups.InviteToGroup	Пригласить в группу
+Groups.InvitedMembers	Приглашенные пользователи
+Groups.InvitesLabel	Приглашения
+Groups.LeaveDialogueHead	Покинуть группу
+Groups.LeaveDialogueText	Вы уверены, что хотите покинуть группу?
+Groups.LeaveGroup	Покинуть группу
+Groups.NewGroup	Создать группу
+Groups.OnboardingHeaderTitle	Узнайте о возможности создавать группы!
+Groups.StartGroupChat	Создать чат группы
+Groups.UnknownMembers	Неизвестно
+GroupsChat.CancelInviteStatusMessage	Игрок __CANCELER__ отозвал приглашение в группу для игрока __INVITEE__
+GroupsChat.GameInviteStatusMessage	__USER__ приглашает группу в игру __GAME__
+GroupsChat.HideMembers	Скрыть участников
+GroupsChat.InvitedStatusMessage	__INVITER__ приглашает игрока __INVITEE__
+GroupsChat.JoinedStatusMessage	__USER_NAME__ присоединяется к группе
+GroupsChat.LeftGroupStatusMessage	__USER_NAME__ покидает группу
+GroupsChat.ShowMembers	Показать участников
+GroupsPanel.ActiveGroups	Активные группы
+GroupsPanel.GroupStatusReasonGroupIsFull	Набрано макс. число участников.
+GroupsPanel.GroupStatusReasonInvalidName	Некорректное название группы.
+GroupsPanel.GroupStatusReasonNotAuthorized	Требуется авторизация.
+GroupsPanel.GroupStatusReasonProfanity	Недопустимое название группы.
+GroupsPanel.GroupStatusReasonTimeout	Время ожидания истекло.
+GroupsPanel.PendingGroups	Группы: ожидание
+Home.Friends.AddButton	Добавить друзей
+Home.Promotions.Header	Популярное
+ImportFriends.Completed	Запросы на добавление в друзья отправлены.
+ImportFriends.FriendAddTime	 
+ImportFriends.ImportFriendsFromWeGame	    
+ImportFriends.ImportFromSteam	Копировать список друзей из Steam.
+ImportFriends.Importing	Поиск друзей
+ImportFriends.NoFriendsFound	Друзья не найдены.
+ImportFriends.SelectFriends	Выбрать друзей для добавления в список
+ImportFriends.SendingFriendRequests	Отправка запросов на добавление в друзья
+ImportFriends.SteamFailed	Произошла ошибка. Невозможно скопировать список друзей из Steam.
+ImportFriends.SteamFailedPrivateProfile	Ваш список друзей из Steam перенести не удалось, потому что ваш профиль доступен для просмотра только ограниченному кругу лиц. Измените настройки и повторите попытку.
+ImportFriends.SteamName	Имя пользователя в Steam
+ImportFriends.TimeOut	                       
+ImportFriends.UplayName	Имя пользователя Ubisoft Connect
+ImportFriends.WeGameFailed	            
+ImportFriends.WeGameName	   
+ImportFriends.WeGameNotAuthorized	Не удалось импортировать список друзей. У Ubisoft Connect нет прав доступа к данным WeGame.
+ImportFriends.WeGameProfileNotFound	   
+InitDownload.ActivateGame	Активировать __GAME_NAME__
+InitDownload.AllocatingDiskSpace	Поиск места на диске
+InitDownload.ContinueDownload	Продолжить загрузку
+InitDownload.ContinueInstall	Продолжить установку
+InitDownload.CreateDesktopShortcut	Создать ярлык на рабочем столе
+InitDownload.CreateStartMenuShortcut	Создать ярлык в меню «Пуск»
+InitDownload.DiskSpaceAvailable	Доступно на диске:
+InitDownload.DiskSpaceRequired	Требуется для установки:
+InitDownload.DownloadChangePath	Хотите перейти к настройкам и изменить путь?
+InitDownload.DownloadFailure	Ubisoft Connect не может начать загрузку. Пожалуйста, проверьте подключение к Интернету и наличие свободного места на жестком диске и попробуйте снова.
+InitDownload.DownloadFailureCreateGameFolder	Ubisoft Connect не удалось найти или создать папку "__GAME_INSTALLATION_PATH__".
+InitDownload.DownloadFailureHeader	Не удалось начать загрузку
+InitDownload.GoOnline	Невозможно получить информацию о пользователе. Подключитесь к сети, чтобы продолжить установку.
+InitDownload.InstallAdditionalLanguages	Установить поддержку дополнительных языков
+InitDownload.InstallLocation	Установить в раздел:
+InitDownload.InstallPathTooLong	Установочный путь слишком длинный. Выберите другое место установки.
+InitDownload.InstallingGame	Установка __GAME_NAME__
+InitDownload.NewerVersionPartiallyDownloaded	Более свежая версия игры "__GAME_NAME__" уже установлена. Вы можете установить более старую версию с помощью диска или продолжить загрузку самой новой версии из списка игр Ubisoft Connect.
+InitDownload.SelectGameComponents	Выбрать компоненты
+InitDownload.SelectLanguage	Пожалуйста, выберите язык установки:
+InitDownload.UnexpectedError.ConnectionIssue	Произошла ошибка при подключении к нашим службам
+InitDownload.UnexpectedError.FAQ	FAQ
+InitDownload.UnexpectedError.InsufficientPrevilegesWindowsRegistry	У Ubisoft Connect нет прав доступа к реестру Windows.
+InitDownload.UnexpectedError.InsufficientPrivilegesRunOnSystem	У Ubisoft Connect недостаточно прав для корректной работы.
+InitDownload.UnexpectedError.LocalFilesMissing	Необходимые локальные файлы отсутствуют или содержат некорректные данные
+InitDownload.UnexpectedError.PossibleSolutions	Советы по решению проблемы можно найти здесь: 
+InitDownload.UnexpectedError.RetrievingDataFromServers	Произошла ошибка при получении данных с наших серверов
+InitDownload.UnexpectedError.TargetDirectoryPathTooLong	Путь установки слишком длинный
+InitDownload.UnexpectedErrorHeader	Ошибка могла возникнуть в силу следующих причин:
+InitDownload.UnexpectedErrorTitle	Невозможно загрузить (Код ошибки: __ERROR_CODE__)
+InitDownload.WithdrawalAcceptanceHeader	Право отзыва
+InitDownload.WithdrawalAcceptanceText	Загружая эту игру, я подтверждаю вступление в силу договора, согласие на немедленное получение игры и осведомленность о невозможности со своей стороны разорвать договор.
+InstallManager.DiskWriteError	В процессе установки произошла ошибка.
+InstallManager.InstallFailure	Ubisoft Connect не может начать установку игры.
+Installs.ShowAll	Показать все активные установки
+KeyStorage.PendingKeyDescription	__USER__!<br><br>Вы использовали код активации для __GAME__, но по техническим причинам процесс активации может занять некоторое время. Мы оповестим вас, как только он будет завершен.<br><br>Нужно лишь немного подождать: после завершения процесса игра станет доступна для запуска.
+KeyStorage.PendingKeyHeader	Активация
+LinkAccount.AccountAlreadyLinked	Учетная запись Ubisoft уже привязана к учетной записи __REPLACE_PLATFORM__.
+LinkAccount.AccountLink.Title	Учетные записи не связаны
+LinkAccount.ErrorHeader	Не удалось связать учетные записи
+LinkAccount.FailureAccountAlreadyLinked	Учетная запись __NAME__ (__PLATFORM__) уже привязана к другой учетной записи Ubisoft.
+LinkAccount.FailureBadUserOrPass	Введен неправильный логин или пароль. Пожалуйста, попробуйте снова.
+LinkAccount.FailureServiceUnavailable	В настоящий момент данный сервис недоступен и мы не можем связать учетные записи. Пожалуйста, попробуйте позже.
+LinkAccount.LinkAccounts	Связать учетные записи
+LinkAccount.LinkWhenAlreadyLoggedIn	Привяжите свою учетную запись к __REPLACE_PLATFORM__.
+LinkAccount.LinkingInProgress	Идет привязка учетных записей. Пожалуйста, подождите…
+LinkAccount.Oculus	Oculus
+LinkAccount.PasswordRequired	Способ входа в учетную запись изменился. В целях безопасности вашей учетной записи Ubisoft введите пароль еще раз.
+LinkAccount.Skip.Tooltip	Вы можете отложить это напоминание в соответствующем меню: Настройки > Связать учетные записи
+LinkAccount.Steam	Steam
+LinkAccount.UbisoftSupportLinkText	Служба поддержки Ubisoft
+LocateGameInstall.Completed	Все игровые файлы найдены
+LocateGameInstall.Failed	Некоторые игровые файлы повреждены или потеряны. Используйте Ubisoft Connect для их проверки или восстановления (процесс может занять несколько минут).
+Login.AskMeLater	Напомнить позже
+Login.ConnectionLost	Потеря соединения
+Login.DateOfBirthRequired	В вашей учетной записи не указана дата рождения. Из-за этого могут возникнуть проблемы при запуске определенных игр. Пожалуйста, введите дату рождения.
+Login.EmailPlaceholder	E-mail
+Login.EpicFailureServiceUnavailable	Служба Epic Games сейчас недоступна. Повторите попытку позже.
+Login.FailureBadUserOrPass	Адрес электронной почты или пароль введен неправильно. Попробуйте снова.
+Login.FailureBanned	Ваша учетная запись была временно заблокирована из-за нескольких неудачных попыток активации или авторизации. Если у вас возникли проблемы при входе в учетную запись, попробуйте повторить попытку позже или воспользуйтесь ссылкой "Восстановление пароля".
+Login.FailureBanned.Title	Учетная запись заблокирована
+Login.FailureBannedContact	Ваша учетная запись была временно заблокирована из-за нескольких неудачных попыток активации кода или авторизации. Если у вас возникли проблемы при входе в учетную запись, попробуйте повторить попытку позже или воспользуйтесь услугой "Восстановление пароля". Если возникла проблема с активацией игры, сообщите об этом __LINK_UBISOFT_SUPPORT__
+Login.FailureGoOffline	Перейти в оффлайн
+Login.FailureMinorVerificationRequired	Вы ввели неверный адрес электронной почты или пароль. Попробуйте еще раз. Если вы создавали учетную запись несовершеннолетнего, убедитесь, что она подтверждена.
+Login.FailureNoInternet	Вероятно, при подключении к интернету возникла проблема. Проверьте ваши настройки или перейдите в режим оффлайн.
+Login.FailureOffline	Если вы используете Ubisoft Connect на этом компьютере впервые, вам придется хотя бы один раз войти в режиме онлайн перед переключением в оффлайн.
+Login.FailurePasswordUpdateCompromised	Вашу учетную запись Ubisoft могли взломать. В целях обеспечения безопасности рекомендуем вам изменить пароль и снова авторизоваться. На ваш электронный адрес будет отправлено письмо, содержащее ссылку для смены пароля.
+Login.FailurePasswordUpdateInactiveAccount	Вы давно не входили в учетную запись Ubisoft.
+Login.FailurePasswordUpdateRequired	В целях обеспечения безопасности рекомендуем вам изменить пароль и снова авторизоваться. На ваш электронный адрес будет отправлено письмо, содержащее ссылку для смены пароля.
+Login.FailureRenewal	Вы были отключены от Ubisoft Connect за бездействие. Пожалуйста, введите пароль учетной записи Ubisoft еще раз, чтобы авторизоваться.
+Login.FailureServiceUnavailable	Сервис Ubisoft сейчас недоступен. Попробуйте позже.
+Login.FailureServiceUnavailableCN	Сервис Ubisoft сейчас недоступен. Проверьте подключение к сети и попробуйте еще раз.
+Login.FailureTryAgain	Попробуйте снова
+Login.FailureWeGame	          
+Login.Header	Вход
+Login.LockedAccountHeader	Ваш аккаунт был заблокирован
+Login.LockedAccountSection1	С использованием вашей учетной записи Ubisoft совершались подозрительные финансовые операции, которые могли скомпрометировать эту учетную запись, тем самым нарушив правила Условий использования.
+Login.LockedAccountSection2	Для обеспечения безопасности игровой среды ваша учетная запись была временно заблокирована.
+Login.LockedAccountSection3	Если с вашей учетной записи ранее не совершались подозрительные действия, она будет заблокирована на семь (7) дней, после чего блокировка снимется автоматически. Пожалуйста, имейте в виду, что представители службы поддержки Ubisoft не имеют возможности снять ограничения в течение этих семи (7) дней.
+Login.LockedAccountSection4	Обратите внимание, что если с вашей учетной записи ранее уже совершались подозрительные действия, она будет заблокирована навсегда. Если вы считаете, что произошла ошибка, перечитайте эту __SUPPORT_LINK__, прежде чем подавать обращение.
+Login.LoggingIn	Вход…
+Login.LoginButton	Вход
+Login.PasswordCapsLockPlaceholder	Нажата клавиша Caps Lock!
+Login.PasswordPlaceholder	Пароль
+Login.PasswordUpdateRequired	Измените пароль
+Login.RecoverPasswordButton	Восстановить пароль
+Login.RegisterNewAccountButton	Создать новую учетную запись
+Login.RememberMe	Запомнить меня
+Login.SettingsButton	Настройки
+Login.SteamBigPictureHint	Чтобы отобразить экранную клавиатуру, используйте соответствующую кнопку на вашем контроллере/геймпаде (по умолчанию: левый джойстик/мини-джойстик)
+Login.ToSRedirectHeader	Обновленные условия предоставления услуги Ubisoft Connect
+Login.UbisoftSupportLinkText	Служба поддержки Ubisoft
+Login.UsernamePlaceholder	Адрес электронной почты
+Login.VerificationError	Неверный код подтверждения. Введите код подтверждения, сгенерированный в вашем приложении проверки подлинности, чтобы продолжить.
+Login.VerificationErrorEmail	Неверный код подтверждения.
+Login.VerificationPlaceholder	Код подтверждения
+Logout.ClientOutdated	Ваша версия Ubisoft Connect устарела, невозможно получить доступ к сервисам Ubisoft Connect. Если проблема сохранится, обратитесь в службу поддержки Ubisoft.
+Logout.ClientOutdatedTitle	Версия Ubisoft Connect устарела
+Logout.MultipleLogin	Вход в Вашу учетную запись был выполнен с другого компьютера. Это может повлиять на Вашу игру.
+Logout.MultipleLoginTitle	Вы отсоединены от системы
+Logout.UserBanned	Ваша учетная запись была временно заблокирована из-за нескольких неудачных попыток активации кода или авторизации.
+Main.ActivateProduct	Активировать ключ
+Main.Discover	Актуальное
+Main.EditAvatarButton	Изменить аватар
+Main.GoOffline	Перейти в оффлайн
+Main.GoOnline	Перейти в онлайн
+Main.Logout	Сменить пользователя
+Main.MyGames	Игры
+Main.NewPatchAvailable	Загружено обновление Ubisoft Connect. Оно будет установлено после перезапуска приложения.
+Main.PrepareToLaunchGame	Подготовка к запуску игры
+Main.RestartAfterPatchButton	Перезапустить Ubisoft Connect
+Main.Shop	Магазин
+Minor.CreateAccountRegistration.ConfirmEmailInvalidError	Адреса электронной почты не совпадают.
+Minor.CreateAccountRegistration.ConfirmParentEmailDescription	Подтвердите адрес электронной почты родителя
+Minor.CreateAccountRegistration.NameInvalidError	Это поле должно быть заполнено.
+Minor.CreateAccountRegistration.ParentEmailDescription	Адрес электронной почты родителя
+Minor.CreateAccountRegistration.Text	Чтобы создать учетную запись, вам необходимо попросить об этом родителя / законного опекуна. Введите данные ниже, чтобы отправить запрос.
+Minor.CreateAccountRegistration.YourNameDescription	Ваше имя
+Minor.CreateAccountRegistration.YourNamePlaceholder	Имя
+Minor.CreateUsername.ConfirmUsernameDescription	Подтвердите имя пользователя
+Minor.CreateUsername.ConfirmUsernameInvalidError	Имена не совпадают.
+Minor.CreateUsername.Header	Создание имени пользователя
+Minor.CreateUsername.Text	Придумайте имя пользователя для своего профиля в Ubisoft Connect. При желании вы сможете изменить его через 30 дней.
+Minor.CreateUsername.YourUsernameDescription	Ваше имя пользователя
+Minor.RequestSent.Header	Заявка отправлена вашему родителю / законному опекуну
+Minor.RequestSent.Text	Мы отправили вашему родителю / законному опекуну электронное письмо со ссылкой на создание вашей учетной записи. Вы получите подтверждающее письмо, когда учетная запись будет создана.
+Minor.RequestSentFailed.Header	Невозможно завершить запрос
+News.FilterOnboarding	Настройка ленты новостей
+News.LinkErrorHeader	Похоже, что эта ссылка недействительна!
+News.LinkErrorText	Мы работаем над устранением неполадки. Повторите попытку позже.
+News.LoadErrorHeader	Не удается загрузить новости!
+News.LoadErrorText	Скоро неполадка будет исправлена. Попробуйте обновить страницу позже.
+News.NextArticle	Следующая статья
+News.PreviousArticle	Предыдущая статья
+News.ViewAll	Все новости
+NoAccess.Google.Link	Нет доступа к Google Authenticator
+NoAccess.Google.Title	Нет доступа к Google Authenticator
+NoVerificationCode.ContactSupport	Если у вас больше нет доступа к кодам восстановления, напишите сюда: __LINK_UBISOFT_SUPPORT__. Вам помогут отключить эту функцию.
+NoVerificationCode.Description	__LINK_RECOVERY_CODES__ отправлены вам на электронную почту. Если вы не можете получить доступ к своему способу подтверждения, используйте один из них, когда установите двухэтапную аутентификацию.
+NoVerificationCode.Header	У меня нет кода подтверждения
+NoVerificationCode.Link	У меня нет кода подтверждения
+NoVerificationCode.RecoveryCode.Link	Шесть кодов восстановления
+Notification.DesktopShortcutCreated	На рабочем столе был создан ярлык для __REPLACE_ME_WITH_GAME_NAME__.
+Notification.DownloadComplete	Загрузка __GAME_NAME__ завершена
+Notification.DownloadCompleteDescription	Загрузка __REPLACE_ME_WITH_GAME_NAME__ завершена.
+Notification.FriendGameText	играет в __GAME_NAME__
+Notification.FriendOnline.ChatLink	Начать чат
+Notification.FriendOnline.Header	__FRIEND_NAME__ онлайн
+Notification.FriendRequestSentToUser	Пользователю __USERNAME__ отправлен запрос
+Notification.GameInviteSent	Приглашение отправлено игроку __USERNAME__
+Notification.GamePatchAvailable	Доступно обновление для __GAME_NAME__
+Notification.GameTrialEndingIn15MinDescription	Время работы пробной версии игры __GAME_NAME__ истечет через 15 минут.
+Notification.GameTrialEndingIn5MinDescription	Время работы пробной версии игры __GAME_NAME__ истечет через 5 минут.
+Notification.GroupGameInviteSent	Приглашение в игру отправлено группе __GROUP_NAME__
+Notification.GroupInvite	__USER_NAME__ приглашает вас присоединиться к группе __GROUP_NAME__
+Notification.GroupInvite.NoGroupName	Вас пригласили в группу.
+Notification.GroupInviteDenied	___USERNAME___ хочет добавить вас в группу. Для вашей безопасности у этой функции есть ограничение по возрасту.
+Notification.GroupMultipleInviteDenied	Другие игроки пытались добавить вас в несколько групп. Для вашей безопасности у этой функции есть ограничение по возрасту.
+Notification.GroupMultipleInvites	Приглашений в группы: __COUNT__
+Notification.InstallComplete	Установка __GAME_NAME__ завершена
+Notification.InstallWrongDiscInsertedDescription	Требуется другой диск. Вставьте диск __DISC_NUMBER__.
+Notification.OfflineMessages	У вас есть непрочитанные сообщения: __COUNT__
+Notification.PlayAvailable	Игра __GAME_NAME__ готова к запуску
+Notification.RewardRedeemed	__REWARD__: разблокировано в __GAME_NAME__
+Notifications.Empty	Нет уведомлений
+Oculus.ErrorClaimedAlready	Этот продукт приобретен пользователем __CLAIMING_USER__. Если произошла ошибка, свяжитесь со службой поддержки.
+Oculus.GenericError	Не удалось установить владельца данного продукта. Свяжитесь со службой поддержки, если вам нужна помощь в решении этой проблемы.
+OculusAccountLinking.Description	Чтобы запустить игру с помощью Oculus, необходимо чтобы ваши учетные записи Ubisoft и Oculus были привязаны друг к другу.
+OculusAccountLinking.Title	Ваши учетные записи Ubisoft и Oculus будут привязаны друг к другу
+OculusAccountLinking.UnlinkDescription	В любой момент вы можете отвязать учетные записи с помощью сайта Ubisoft. При этом игры будут привязаны к учетной записи Ubisoft.
+OfflineLaunch.DialogueButtonKeep	Сохранить настройку
+OfflineLaunch.DialogueButtonRemove	Убрать настройку
+OfflineLaunch.DialogueHeader	Хотите всегда запускать клиент без подключения к сети?
+OfflineLaunch.DialogueText	В настоящий момент выбран вариант «Всегда запускать Ubisoft Connect в режиме оффлайн». Сохранить эту настройку?
+OrbitApi.StartGameAlertCaption	Не удалось запустить игру.
+OrbitApi.StartGameAlertText	Невозможно запустить игру. Пожалуйста, убедитесь, что в данный момент другие игры, использующие Ubisoft Connect, не запущены. Если проблема возникнет снова, попробуйте переустановить игру.
+Overlay.ActivateProduct.ContentAdded	контент добавлен в вашу учетную запись.
+Overlay.ActivateProduct.ExtraDataInfo	Возможно, вам придется загрузить дополнительные материалы, перед тем как получить доступ к данному контенту в игре.
+Overlay.BackToGame	Вернуться к игре (Shift + F2)
+Overlay.InGame.PartyHeader	Команда
+Overlay.Party.PlayerCount	Команда (__PLAYERS__ чел.)
+Overlay.Party.Title	Команда игрока __NAME__
+Overlay.PartyInformationHeader	Создайте команду, чтобы общаться!
+Overlay.PartyInformationText	Пригласите своих друзей, чтобы общаться и играть вместе!
+Overlay.PartyInviteHeader	__FRIEND_NAME__ приглашает вас в беседу, чтобы играть в __GAME_NAME__ !
+Overlay.PartyNoFriends	В вашей команде никого нет
+Overlay.ScreenshotSaveFailed	Невозможно сохранить снимок экрана. Недостаточно свободного места, либо у вас нет прав для сохранения на диск.
+Overlay.ScreenshotSaved	Скриншот сохранен
+Overlay.StartParty	Создать команду
+OverlayRequiredWarning.DoNotShowAgain	Больше не показывать это сообщение
+OverlayRequiredWarning.EnableHint	Вы можете в любой момент включить внутриигровой оверлей в общих настройках.
+OverlayRequiredWarning.MergedText	Не рекомендуется начинать игру, отключив внутриигровой оверлей Ubisoft Connect. В этом случае некоторые из функций игры могут быть недоступны. Вы можете в любой момент включить внутриигровой оверлей в общих настройках.
+OverlayRequiredWarning.StartButton	Начать игру (не рекомендуется)
+OverlayRequiredWarning.Text	Не рекомендуется начинать игру, отключив внутриигровой оверлей Ubisoft Connect. В этом случае некоторые из функций игры могут быть недоступны.
+OverlayRequiredWarning.Title	Внутриигровой оверлей Uplay отключен
+PartyChat.WaitingForPlayersToJoin	Ожидание остальных членов команды
+PartyPanel.ContextMenu.LeaveParty	Покинуть команду
+PartyPanel.ContextMenu.PromoteToLeader	Назначить лидером команды
+PartyPanel.Header	Команда
+PartyPanel.Invite.InviteButton	Пригласить в команду
+PartyPanel.PartyLeaderLabel	Лидер команды
+PartyPanel.PartyMemberLabel	Член команды
+Patch.Looking	Поиск обновлений
+Patch.Restarting	Перезапуск…
+PatchingLauncher.Header	Обновление Ubisoft Connect
+PatchingPlatform.Failed.Description	При обновлении приложения Ubisoft Connect возникла ошибка. Вы можете повторить попытку, пропустить процесс или обновить клиент вручную, используя __UBISOFTCONNECT_INSTALLER__.
+PatchingPlatform.Failed.Header	Ошибка обновления Ubisoft Connect
+PcBang.Acquire	Загрузка материалов PC Bang...
+PcBang.Expired	Очки PC bang для этой игры были потрачены. Ваш центр PC bang должен обладать очками PC bang, которые вы можете получить. Если у вас возникли вопросы, свяжитесь с сотрудниками PC bang.
+PcBang.Games	Игры PC Bang
+PcBang.ModeOff	Режим PC Bang выключен
+PcBang.ModeOn	Режим PC Bang включен
+PcBang.TryAgain1	Повторите попытку, нажав кнопку «Попробовать еще раз», и если игра не запустится, вы сможете сыграть без преимуществ — для этого выберите кнопку «Продолжить».
+PcBang.TryAgain2	Повторите попытку, нажав кнопку «Попробовать еще раз».
+PcBang.Unavailable	Сервис PC Bang временно не работает. Ваши материалы PC Bang могут быть недоступны.
+PcBang.Version	Версия PC Bang
+PcBang.WentWrong	Сейчас вы не можете получить преимущества PC Bang.
+PcBang.WentWrong1	1. Ведутся технические работы.
+PcBang.WentWrong2	2. Что-то пошло не так. Вы не можете воспользоваться преимуществами.
+PendingDeactivation.CancelClosureDescription	Мы отправили вам письмо с ссылкой для отмены удаления вашей учетной записи.
+PendingDeactivation.CancelClosureHeader	Отменить удаление учетной записи
+PendingDeactivation.Description	В данный момент работа вашей учетной записи приостановлена из-за отсутствия активности или запроса на закрытие с вашей стороны.
+PendingDeactivation.PromptHeader	Не удается войти в вашу учетную запись
+PendingDeactivation.byGuardian.Description1	Действие вашей детской учетной записи временно остановлено из-за отсутствия активности или запроса на закрытие от вашего законного представителя.
+PendingDeactivation.byGuardian.Description2	Отменить запрос на закрытие может только ваш законный представитель.
+PersistentClient.ExitLabel	Выйти из приложения
+PersistentClient.MinimizeToTrayDescription	Приложение Ubisoft Connect продолжит работу в фоновом режиме, чтобы вы могли моментально получить доступ к играм.
+PersistentClient.MinimizeToTrayLabel	Свернуть в область уведомлений (рекомендуется)
+PersistentClient.SelectClosingBehavior	Выберите действие после выхода из Ubisoft Connect:
+Platform.YoureOffline	Ubisoft Connect находится в режиме оффлайн. Некоторые игры и сервисы доступны только в режиме онлайн. Для доступа ко всем возможностям Ubisoft Connect перейдите в онлайн.
+PlayerStats.VisitWebsite	Вся статистика – на сайте
+PrepareDownload.InstallingGame	Установка __GAME_NAME__
+Profile.Edit	Редактировать профиль
+Profile.NoClubGamesHeader	Здесь будут отображены ваши игры.
+Profile.NoClubGamesText	Играя в игры от Ubisoft, вы получаете опыт Club и очки Units, с помощью которых можно разблокировать эксклюзивные награды и уникальный контент. На этой странице будут отображаться ваш прогресс и статистические данные, связанные с играми от Ubisoft.
+Promotab.OnboardingE3Text	Все новости о E3 здесь!
+QuitWarningDialog.Header	Закрыть
+QuitWarningDialog.NoButton	Отмена
+QuitWarningDialog.WarningMessage	Закрытие Ubisoft Connect при запущенной игре может привести к неблагоприятным последствиям. Выйдите из игры __GAME_RUNNING__ перед закрытием Ubisoft Connect. В случае крайней необходимости можно воспользоваться принудительным закрытием Ubisoft Connect.
+QuitWarningDialog.YesButton	Выйти принудительно
+RecoveryCode.MoreInfo.Link	Что такое коды восстановления
+RememberDevice.LimitReached	Вы выбрали для запоминания максимально допустимое количество устройств. __MANAGE__
+RememberDevice.SupportText	Вам не потребуется вводить код подтверждения при авторизации с использованием этого устройства.
+RememberMe.SupportText	Теперь этот компьютер запомнит ваше имя пользователя и пароль
+RetailInstaller.InitFailureHeader	Не удалось установить игру
+Rewards.Download	Загрузить
+Rewards.MaxUnlocksReached	Разблокировано макс. количество раз
+Rewards.RedeemForAmount	Получить за __UNIT__
+Rewards.RedeemFree	Получить бесплатно
+Rewards.RedeemFromLauncher	Вы можете загрузить эту награду через приложение Ubisoft Connect.
+Rewards.RedeemNeed	Необходимо заработать больше очков Units, чтобы разблокировать эту награду.
+Rewards.ServiceUnavailable	Награды в данный момент недоступны. Если проблема не будет решена, обратитесь в службу поддержки Ubisoft.
+Rewards.UnlockMultipleTimes	Разблокируйте несколько раз:
+Rewards.UnlockXTimes	__NUMBER__X за __COST__
+Rewards.UnlocksLeft	Осталось Наград: __NUMBER__
+Rewards.UnlocksRemaining	Разблокируйте эту Награду __NUMBER__  раз(а)
+SavingOptInFailed.Header	Ошибка сохранения настроек
+SavingOptInFailed.Info	Во время сохранения настроек что-то пошло не так, поэтому они вернулись к значению по умолчанию. Если вы хотите изменить их, зайдите на сайт управления учетной записью Ubisoft.
+SecurityPhoneNumber.CountryPlaceholder	Страна
+SecurityPhoneNumber.Header	Номер телефона для подтверждения
+SecurityPhoneNumber.InputInvalid	Неправильный номер телефона.
+SecurityPhoneNumber.InputRequired	Требуется ввести номер телефона.
+SecurityPhoneNumber.Intro	Вы можете восстановить свою учетную запись по коду подтверждения, который придет на ваш телефон. Указанный номер будет использоваться только для аутентификации и безопасного входа в систему.
+SecurityPhoneNumber.InvalidVerificationCode	Неверный код подтверждения, или истек срок его действия.
+SecurityPhoneNumber.PNAlreadyUsed	Этот номер телефона уже привязан к другим учетным записям.
+SecurityPhoneNumber.PNCantBeUsed	Этот номер телефона нельзя привязать к вашей учетной записи. Пожалуйста, используйте другой номер.
+SecurityPhoneNumber.PNPlaceholder	Номер телефона
+SecurityPhoneNumber.ReceiveNewCode	Щелкните здесь, чтобы получить новый код
+SecurityPhoneNumber.TooManyAttempts	Действие не может быть обработано из-за слишком большого количества попыток подряд. Попробуйте еще раз позже.
+SecurityPhoneNumber.VerificationCompleted	Указанный номер телефона был успешно привязан к вашей учетной записи.
+SecurityPhoneNumber.VerificationStarted	На ваш номер телефона отправлен код подтверждения. Введите его в поле ниже.
+Service.Initializing	Инициализация...
+ServiceUnavailable.Failure	Сервис Ubisoft недоступен. Попробуйте позже.
+Settings.AccountLinking.SteamReminder	Напомните мне о возможности связать учетные записи при следующем запуске игры в Steam.
+Settings.AutoPatchingGame	Включить автоматические обновления для этой игры (если недавно она была запущена)
+Settings.AutoPatchingGlobal	Включить автоматические обновления для игр (если недавно они были запущены)
+Settings.AutoWallPosts	Включить автоматические сообщения для соцсетей
+Settings.BandwidthLimit	Ограничить пропускную способность:
+Settings.ChangeDownloadDirLabel	Изменить
+Settings.ChangeInstallerCachePathButton	Изменить
+Settings.ChangeProxy	Изменить настройки прокси
+Settings.ChangeScreenshotsRootPathButton	Изменить
+Settings.ChatEnableTaskbarTabs	Группировать беседы в отдельной кнопке на панели задач
+Settings.CurrentGameInstallationPath	Раздел установки по умолчанию
+Settings.CurrentGameInstallationPathHelp	Новые игры по умолчанию будут установлены в этот раздел
+Settings.CurrentInstallerCacheHelp	Файлы установки для более старых игр будут загружены сюда
+Settings.CurrentInstallerCachePath	Размещение кэша текущего установщика
+Settings.CurrentScreenshotsRootPath	Папка для скриншотов
+Settings.DeleteInstallersButton	Удалить все установщики игр
+Settings.DeleteInstallersError	Нельзя удалять установщики во время загрузки, либо в процессе установки.
+Settings.DesktopNotificationsInfo	Уведомления на рабочем столе будут появляться в правой нижней части экрана, рядом с уведомлениями о важных событиях.
+Settings.DontUploadCrashReports	Не отправлять сообщения об ошибках
+Settings.DownloadLimitNone	Нет
+Settings.EnableAchievementsScreenshots	Автоматически делать скриншот, когда открыто достижение
+Settings.EnableDesktopNotifications	Включить уведомления на рабочем столе
+Settings.GameInstallationDefaultButton	По умолчанию
+Settings.InGameNotificationsInfo	Внутриигровые уведомления будут появляться в углу экрана и занимать совсем мало места, чтобы не мешать игровому процессу.
+Settings.InGameSocial	Включить внутриигровые уведомления
+Settings.LandingPageGames	Игры
+Settings.LandingPageLastPlayedGame	Недавно запущенная игра
+Settings.LandingPageNews	Новости
+Settings.LandingPageUplayPlus	Ubisoft+
+Settings.Language	Язык интерфейса:
+Settings.Language.arAA	العربية الموحدة
+Settings.Language.arSA	العربية
+Settings.Language.beBY	Беларуская
+Settings.Language.bgBG	Български
+Settings.Language.bnBD	বাংলা
+Settings.Language.bsBA	Bosanski
+Settings.Language.caES	Català
+Settings.Language.csCZ	Čeština
+Settings.Language.daDK	Dansk
+Settings.Language.deDE	Deutsch
+Settings.Language.elGR	Ελληνικά
+Settings.Language.enAU	English (Australia)
+Settings.Language.enBZ	English (Belize)
+Settings.Language.enCA	English (Canadian)
+Settings.Language.enCB	English (Caribbean)
+Settings.Language.enGB	English (UK)
+Settings.Language.enIE	English (Ireland)
+Settings.Language.enJM	English (Jamaica)
+Settings.Language.enNZ	English (New Zealand)
+Settings.Language.enPH	English (Philippines)
+Settings.Language.enTT	English (Trinidad and Tobago)
+Settings.Language.enUS	English
+Settings.Language.enZA	English (South Africa)
+Settings.Language.enZW	English (Zimbabwe)
+Settings.Language.es419	Español (LATAM)
+Settings.Language.esES	Español
+Settings.Language.esMX	Español (LATAM)
+Settings.Language.etEE	Eesti
+Settings.Language.euES	Euskara
+Settings.Language.faIR	فارسی
+Settings.Language.fiFI	Suomi
+Settings.Language.foFO	Føroyskt
+Settings.Language.frCA	Français (Canadien)
+Settings.Language.frFR	Français
+Settings.Language.glES	Galego
+Settings.Language.guIN	ગુજરાતી
+Settings.Language.heIL	עִבְרִית
+Settings.Language.hiIN	हिन्दी
+Settings.Language.hrHR	Hrvatski
+Settings.Language.huHU	Magyar
+Settings.Language.idID	Bahasa Indonesia
+Settings.Language.isIS	Íslenska
+Settings.Language.itIT	Italiano
+Settings.Language.jaJP	日本語
+Settings.Language.knIN	ಕನ್ನಡ
+Settings.Language.koKO	한국어
+Settings.Language.koKR	한국어
+Settings.Language.ltLT	Lietuvių kalba
+Settings.Language.lvLV	Latviešu valoda
+Settings.Language.mkMK	Македонски
+Settings.Language.mnMN	Монгол
+Settings.Language.mrIN	मराठी
+Settings.Language.msMY	Bahasa Melayu
+Settings.Language.nbNO	Norsk
+Settings.Language.nlNL	Nederlands
+Settings.Language.nnNO	Norsk (nynorsk)
+Settings.Language.plPL	Polski
+Settings.Language.ptBR	Português brasileiro
+Settings.Language.ptPT	Português
+Settings.Language.roRO	Română
+Settings.Language.ruRU	Русский
+Settings.Language.saIN	संस्कृतम्
+Settings.Language.skSK	Slovenčina
+Settings.Language.slSI	Slovenščina
+Settings.Language.srRS	Српски језик
+Settings.Language.svSE	Svenska
+Settings.Language.taIN	தமிழ்
+Settings.Language.teIN	తెలుగు
+Settings.Language.thTH	ไทย
+Settings.Language.trTR	Türkçe
+Settings.Language.ukUA	Українська
+Settings.Language.urPK	اردو
+Settings.Language.viVN	Tiếng Việt
+Settings.Language.zhCN	简体中文
+Settings.Language.zhTW	繁體中文
+Settings.MainHeader	Настройки
+Settings.MinimizeToTrayInfo	В данном случае приложение Ubisoft Connect продолжит работу в фоновом режиме, чтобы вы могли моментально получить доступ к играм.
+Settings.MinimizeToTrayLabel	Сверните Ubisoft Connect в область уведомлений после выхода из приложения.
+Settings.Need2FAVerification	Чтобы отвязать свою учетную запись Steam, закройте Ubisoft Connect и войдите заново, используя двухэтапную аутентификацию или запоминание устройства.
+Settings.NonFriendGameInvite	Включить приглашения в игру не от друзей
+Settings.NotificationAchievements	Получено достижение
+Settings.NotificationChat	Получено новое сообщение в чате
+Settings.NotificationClubChallenge	Испытание пройдено
+Settings.NotificationDownloadComplete	Загрузка игры завершена
+Settings.NotificationFriendGame	Друг вошел в игру
+Settings.NotificationFriendOnline	Друг вошел в сеть
+Settings.NotificationFriendRequest	Получен запрос на добавление в друзья
+Settings.NotificationGameInvite	Друг приглашает вас в игру
+Settings.NotificationGamePatchAvailable	Доступно обновление для игры
+Settings.NotificationGroupInvite	Получено приглашение в группу
+Settings.NotificationPartyInvite	Друг приглашает вас вступить в команду
+Settings.NotificationPlayAvailable	Игра готова к запуску
+Settings.OfflineMode	Всегда запускать Ubisoft Connect в режиме оффлайн
+Settings.OptInForBeta	Оценить пробные версии
+Settings.OptInForBetaInfo	Вы можете использовать бета-версии обновлений — это способ опробовать новые возможности до официального выхода обновления. Вы всегда сможете вернуться к последней утвержденной версии, отказавшись от данной функции и перезапустив Ubisoft Connect.
+Settings.OverlayDescription	Включить внутриигровой оверлей для совместимых игр
+Settings.OverlayShiftF2	Shift + F2
+Settings.OverlayShortcutDescription	Для активации внутриигрового оверлея во время игры нажмите Shift + F2.
+Settings.PauseDownloadsOnGameLaunches	Приостановите загрузку, когда играете в игру
+Settings.RestartForEffect	Для вступления в силу нового языка приложения необходимо перезапустить Ubisoft Connect.
+Settings.SaveScreenshotUncompressedCopy	Сохранить несжатые копии снимков экрана (.png)
+Settings.SavegameSync	Включить синхронизацию сохранения в "Облачном сервисе"
+Settings.ScreenshotTaken	Сделан снимок экрана
+Settings.ScreenshotsHotkey	Горячая клавиша скриншота
+Settings.SelectLandingPage	Выберите страницу для отображения после запуска или повторного открытия клиента.
+Settings.ShowFPSCounter	Отображать счетчик FPS в игре
+Settings.ShowNotificationsWhen	Отображать уведомления в следующих случаях:
+Settings.ShowSpotlight	Включить уведомления о событиях, акциях и выходе новых игр и дополнительного контента.
+Settings.StartOnWindowsStart	Автоматически запускать Ubisoft Connect при входе в Windows
+Settings.Tabs.AccountLinking	Связать учетные записи
+Settings.Tabs.Downloads	Загрузки
+Settings.Tabs.General	Общие
+Settings.Tabs.Network	Сеть
+Settings.Tabs.Notifications	Уведомления
+Settings.Tabs.Other	Другое
+Settings.Tabs.Voip	Голосовой чат
+Settings.VoIP.NoInputDevice	Микрофон не обнаружен
+Settings.VoIP.NoOutputDevice	Устройство вывода звука не обнаружено
+Settings.VoIP.VoiceActivation.Automatic	Передавать речь автоматически
+Settings.VoIP.VoiceActivation.PushToTalk	Передавать речь при удерживании этой клавиши
+Settings.VoIP.VoiceActivation.SelectType	Когда голосовой чат включен:
+Settings.Voip.AutoJoinVoipInParty	Автоматически присоединиться к голосовому чату при входе в команду
+Settings.Voip.EnableVoip	Включить голосовой чат
+Settings.Voip.MicVolume	Громкость микрофона:
+Settings.Voip.MicVolumeAuto	Автоматическая настройка
+Settings.Voip.MuteMyself	Выключить микрофон
+Settings.Voip.SelectMic	Микрофон:
+Settings.Voip.SelectSpeakers	Динамики:
+Settings.Voip.SpeakersVolume	Громкость динамиков:
+Settings.Voip.VoIPNotificationSoundsEnabled	Включить звуки
+Shop.AddToCartError	Ошибка добавления в корзину, повторите попытку.
+Shop.AllDLC	Все DLC:
+Shop.AllEditions	Все издания:
+Shop.Discover	Узнайте больше
+Shop.ErrorHeader	Ubisoft Store недоступен
+Shop.ErrorText	Магазин Ubisoft Store временно недоступен. Если данная проблема повторится, обратитесь в службу поддержки Ubisoft.
+Shop.PriceFrom	От __PRICE__
+Shop.SupportLink	Служба поддержки Ubisoft
+Stats.Title	Статистика
+SteamAccountLinking.Description	Вы можете связать свои учетные записи, чтобы при запуске игры в Steam автоматически входить в Ubisoft Connect и начинать игру быстрее. Ваши учетные данные Steam не будут сохранены в Ubisoft Connect.
+SteamPop.ActivationDescription	В вашей учетной записи __USER_NAME__ (__MAIL__) будут активированы следующие продукты:
+SteamPop.ErrorClaimedAlready	Данный продукт приобретен пользователем __CLAIMING_USER__. Если вы считаете, что произошла ошибка, свяжитесь со службой поддержки.
+SteamPop.ErrorGeneric	Не удалось установить владельца данного продукта. Свяжитесь со службой поддержки, если вам нужна помощь в решении этой проблемы.
+Store.Checkout	Оформление заказа
+Store.CheckoutBackToPayment	Выберите другой способ оплаты
+Store.CheckoutDismissProviderBrowserHeader	Покинуть страницу?
+Store.CheckoutDismissProviderBrowserText	Вы уверены, что хотите покинуть эту страницу?<br>Убедитесь, что транзакция успешно завершена, если вы не хотите отменить оплату.
+Store.CheckoutErrorText	Что-то пошло не так. Повторите попытку через некоторое время.
+Store.CheckoutProductNotFoundMessage	Выбранный продукт недоступен в вашей стране.
+Store.CheckoutRedirectErrorText	Возникли проблемы с обработкой вашего платежа. Средства с вашего счета не снимались. Повторите попытку.
+Store.CheckoutSuccessHeader	Благодарим за покупку!
+Store.CheckoutSuccessOwnership	Ваши покупки уже доступны!
+Store.CheckoutSuccessText	Покупка совершена, подтверждение заказа выслано на ваш адрес электронной почты.
+Store.CheckoutTermsOfSale	Подтверждая данный заказ, я выражаю свое согласие с <a>Условиями продажи</a>.
+Store.CheckoutUnknownErrorText	Не удалось получить информацию об оплате. Если операция прошла успешно, все покупки будут сразу же добавлены в вашу учетную запись.
+Store.CheckoutWaitingOwnership	Идет привязка купленного к вашей учетной записи. Подождите немного…
+Store.CheckoutWaitingOwnershipTimeout	Процесс занимает больше времени, чем ожидалось. Если проблема не разрешится, обратитесь в службу поддержки Ubisoft.
+Store.CheckoutWithdrawalRights	Настоящим подтверждаю вступление в силу договора и осведомленность о невозможности со своей стороны разорвать договор с момента начала загрузки или трансляции цифрового контента.
+Store.ErrorGettingStoreInfo	Магазин сейчас недоступен. Повторите попытку или попробуйте позже.
+Store.GoToHomepage	Перейти в магазин
+Store.IncludingVat	Включая НДС
+Store.LegalInfo	© Ubisoft Entertainment. Все права сохранены. Ubisoft и логотип Ubisoft являются зарегистрированными товарными знаками Ubisoft Entertainment в США и/или других странах.
+Store.LegalInformation	Юридическая информация
+Store.LocaleMismatchMessage	Мы обнаружили, что вы переходите в магазин другой страны. Идет перенаправление в магазин, относящийся к вашей стране. При желании в настройках учетной записи Steam вы можете выбрать магазин с другим местоположением для использования по умолчанию.
+Store.NoProductsAvailable	На данный момент для вашего региона нет доступных продуктов.
+Store.OrderColor	Цвет:
+Store.OrderQuantity	Количество:
+Store.OrderSize	Размер:
+Store.OrderSummary	Отмена
+Store.Purchased	Куплено
+Store.RedirectMessage	Мы обнаружили, что вы переходите в магазин из другой страны. Хотите открыть магазин для вашей страны?
+Store.RedirectingToProvider	Перенаправление...
+Store.SelectPayment	Выбор способа оплаты
+Store.StockLevel	Осталось всего __REPLACE_WITH_STOCKLEVEL__
+Store.StoreServiceOffline	Что-то пошло не так, попробуйте позже.
+Store.SwitchStore	Изменить магазин
+Store.TagBundles	Комплекты
+Store.TagCurrency	Валюта
+Store.TagDLC	DLC
+Store.TagSeasonPass	Season Pass
+Store.TagSets	Комплекты
+Store.TagSkins	Раскраски
+Store.TagULC	ULC
+StoreFront.AddonsTitle	DLC для ваших игр
+StoreFront.RecommendationsTitle	Рекомендуемые игры
+StoreFront.ShowLess	Показать меньше
+StoreFront.ShowMore	Показать больше
+StoreFront.TopPick	Подборка для вас
+StorePage.Developer	Разработчик:
+StorePage.Genre	Жанр:
+StorePage.Multiplayer	Сетевая игра:
+StorePage.Overview	Обзор
+StorePage.ReleaseDate	Дата выхода:
+StorePage.Singleplayer	Одиночная игра:
+StorePage.SizeChart	Таблица размеров
+StorePage.SystemRequirements	Системные требования
+Subscription.Active	Ваша подписка Ubisoft+ активна.
+Subscription.AvailableWith	Доступно с
+Subscription.Expired	Ваша подписка Ubisoft+ истекла.
+Subscription.ExpiredHeader	Подписка истекла
+Subscription.ExpiredText	Ваша подписка Ubisoft+ истекла. Обновите ее, чтобы продолжить играть.
+Subscription.FailureNoInternet	Для работы Ubisoft+ требуется подключение к Интернету. После восстановления подключения вы сможете запустить игры Ubisoft+.
+Subscription.GameNotIncluded	Эта игра сейчас недоступна для всех подписок.
+Subscription.GameUnavailableText	Эта игра недоступна для вашей текущей подписки Ubisoft+.
+Subscription.InactiveRibbon	Ваша подписка Ubisoft+ сейчас неактивна.
+Subscription.InactiveText	Ваша подписка Ubisoft+ сейчас неактивна.__LINE_BREAK__<a>Возобновить подписку</a>
+Subscription.Manage	Управляйте подпиской Ubisoft+.
+Subscription.ManageButton	Управлять подпиской
+Subscription.MembershipStatus	Статус подписки:
+Subscription.MembershipStatusActive	активна
+Subscription.MembershipStatusExpired	истекла
+Subscription.Name	Ubisoft+
+Subscription.NoInternetHeader	Нет подключения к интернету
+Subscription.Re-activateButton	Возобновить подписку
+Subscription.RenewButton	Обновить подписку
+Subscription.UnavailableRibbon	Некоторые игры недоступны для вашей текущей подписки Ubisoft+.
+Switch.GamePlayerSuspended	Доступ к этой игре временно заблокирован. Причина: нарушение Правил использования. Чтобы узнать подробности, свяжитесь со службой поддержки Ubisoft.
+Switch.GenericError	При запуске игры возникла неполадка. Повторите попытку позже. Если проблема сохранится, свяжитесь со службой поддержки Ubisoft.
+Switch.LoginBanned	Ваша учетная запись временно заблокирована. Причина: многократные неудачные попытки авторизации. Если возникли проблемы с входом в учетную запись, повторите попытку позже или свяжитесь со службой поддержки Ubisoft.
+Switch.LoginPasswordRequired	Для защиты вашей учетной записи рекомендуем обновить пароль. Для этого перейдите на http://account.ubisoft.com
+Switch.ServiceUnavailable	Служба Ubisoft временно недоступна. Повторите попытку позже. Если проблема сохранится, свяжитесь со службой поддержки Ubisoft.
+ThirdPartyPlatform.DiskIsFullError	Недостаточно свободного места на диске. Пожалуйста, освободите место на диске и попробуйте снова.
+ThirdPartyPlatform.DownloadFailureHeader	__PLATFORM_NAME__: ошибка загрузки
+ThirdPartyPlatform.GenericDiskError	Ошибка при загрузке инсталлятора __PLATFORM_NAME__
+ThirdPartyPlatform.GenericDownloadError	Ошибка загрузки. Удостоверьтесь, что вы подключены к сети, а на жестком диске достаточно свободного места, и попробуйте снова начать загрузку. Или повторите попытку позже.
+ThirdPartyPlatform.InstallFailureHeader	__PLATFORM_NAME__: ошибка установки
+ThirdPartyPlatform.InstallFailureText	Ошибка в работе инсталлятора __PLATFORM_NAME__
+TrustedDevice.Check	Это устройство — доверенное
+TwoStepCode.PromptTimeExpires	Время ожидания истекло. Повторите попытку авторизации.
+TwoStepVerification.ActivateReason1	Усильте защиту своей учетной записи Ubisoft, активировав 2-факторную аутентификацию с помощью Google Authenticator.
+TwoStepVerification.ActivateReason2	Активируйте 2-факторную аутентификацию с помощью Google Authenticator, чтобы дополнительно обезопасить свою учетную запись Ubisoft.
+TwoStepVerification.ActivateReason3	Защитите свою учетную запись Ubisoft, включив 2-факторную аутентификацию с помощью Google Authenticator.
+TwoStepVerification.CheckBrowser.Description	Мы открыли страницу управления учетной записью Ubisoft, где вы можете настроить 2-этапную аутентификацию. Возвращайтесь, когда завершите процесс.
+TwoStepVerification.CheckBrowser.Title	Загляните в браузер
+TwoStepVerification.ClickToReceiveSmsCode	Или щелкните здесь, чтобы получить код в СМС-сообщении
+TwoStepVerification.EnterCode	Введите код подтверждения в поле ниже.
+TwoStepVerification.EnterEmailCode	На вашу электронную почту отправлено письмо с кодом безопасности для подтверждения. Введите полученный код в поле ниже:
+TwoStepVerification.IncorrectVerificationCode	Неверный код подтверждения.
+TwoStepVerification.InfoAuthenticator	Вы включили двухэтапную верификацию с подтверждением через Google Authenticator.
+TwoStepVerification.InfoEmail	Вы включили двухэтапную верификацию с подтверждением по электронной почте.
+TwoStepVerification.InfoEmail.MergedText	Вы активировали двухэтапную аутентификацию по электронной почте. Пожалуйста, введите код подтверждения, отправленный на ваш адрес электронной почты:
+TwoStepVerification.InfoSms	Вы активировали двухэтапную аутентификацию по СМС. Введите проверочный код, который мы отправили на ваш номер мобильного телефона: 
+TwoStepVerification.NewCodeSent	Новый код выслан на ваш адрес электронной почты!
+TwoStepVerification.NewSmsCodeSent	Новый код выслан на ваш номер мобильного телефона!
+TwoStepVerification.Onboarding.Description	Обеспечьте максимальную безопасность вашей учетной записи Ubisoft – активируйте двухэтапную аутентификацию с использованием электронной почты, SMS-сообщений или Google Authenticator.
+TwoStepVerification.Onboarding.Title	Защитите учетную запись с помощью 2-этапной аутентификации
+TwoStepVerification.ReceiveNewCode	Получить новый код.
+TwoStepVerification.RecoveryCodesHint	Если вы не можете открыть Google Authenticator, для восстановления доступа введите один из кодов подтверждения в соответствующее поле. Они были отправлены вам по электронной почте при активации двухэтапной верификации.
+TwoStepVerification.SetUp	Настройка 2-этапной аутентификации
+TwoStepVerification.StatusUpdateInfo	Повторно откройте эту страницу, чтобы увидеть изменение статуса 2-этапной аутентификации.
+TwoStepVerification.Title	Двухэтапная аутентификация
+UplayMenu.AccountInformation	Данные учетной записи
+UplayMenu.ChangeUser	Сменить пользователя
+UplayMenu.GoOffline	Выйти в оффлайн
+UplayMenu.GoOnline	Выйти в онлайн
+UplayMenu.ReleaseNotes	Примечания
+UplayMenu.StoreBillingAddress	Расчетный адрес
+UplayMenu.StoreBillingInformation	Платежная информация
+UplayMenu.StoreHelp	FAQ / Помощь
+UplayMenu.StoreOrderHistory	Мои заказы
+UplayMenu.Subscriptions	Мои подписки
+VerifyCode.Resend	Отправить код подтверждения заново
+VerifyEmail.EmailNotVerified	Ваш электронный адрес не был подтвержден!
+VerifyEmail.EmailSentFailed	При отправке запроса произошла ошибка. Повторите попытку позже.
+VerifyEmail.EmailSentSuccess	Для подтверждения адреса электронной почты вам было отправлено письмо с адреса AccountSupport@ubi.com.
+VerifyEmail.EmailSentSuccess1	С адреса AccountSupport@ubi.com вам отправлено письмо с руководством по подтверждению адреса вашей почты.
+VerifyEmail.EmailSentSuccess2	Вы получите письмо от AccountSupport@ubi.com, в котором содержится информация о том, как подтвердить адрес вашей почты.
+VerifyEmail.PromptEmailSentHeader	Мы почти закончили
+VerifyEmail.PromptHeader	Подтвердите e-mail
+VerifyEmail.Resend	Отправить письмо с подтверждением еще раз
+VerifyEmail.Verified	Ваш адрес электронной почты подтвержден!
+VerifyEmail.Verify	Подтвердить
+VerifyEmail.VerifyLink	Подтверждение e-mail
+VerifyEmail.VerifyReason	Для обеспечения безопасности вашей учетной записи и получения эффективной помощи от службы поддержки необходимо подтвердить электронный адрес.
+VerifyEmail.VerifyReason1	Подтвердите адрес почты, чтобы ваша учетная запись была отлично защищена и вы получали поддержку на самом высоком уровне.
+VerifyEmail.VerifyReason2	Подтвердите адрес почты, чтобы усилить защиту своей учетной записи и своевременно получать поддержку.
+VerifyEmail.VerifyReason3	Актуальны ли данные вашей учетной записи? Чтобы она всегда была под защитой, подтвердите адрес своей почты.
+VerifyGame.Completed	Все игровые файлы были успешно проверены.
+VerifyGame.Failed	Ошибка при проверке файлов. Попытайтесь переустановить игру, если проблема не исчезнет, обратитесь в службу клиентской поддержки Ubisoft.
+VerifyGame.Header	Проверка файлов игры
+VerifyGame.Initializing	Инициализация...
+VerifyGame.Resolve	Удаление файлов
+VerifyGame.TotalProgress	Всего проверено:
+Videos.Title	Видео
+Wallet	Кошелек Express от Ubisoft
+Wallet.Activate.Link	Активировать кошелек
+Wallet.AddFunds.Link	Внести средства
+Wallet.CheckoutTerms	Подтверждая данный заказ, я выражаю свое согласие с <a>Условиями продажи</a> и <a>Условиями использования кошелька</a>.
+Wallet.ConfirmButton	Подтвердить
+Wallet.CurrencyMismatch	Валюта кошелька не поддерживается страной, к которой вы подключены в настоящее время.
+Wallet.CustomerSupport.Link	Служба поддержки
+Wallet.Deactivated	Ваш кошелек отключен в целях обеспечения безопасности.
+Wallet.FundsBalance	Средства кошелька: __BALANCE__
+Wallet.InsufficientFunds	В кошельке недостаточно средств, чтобы совершить эту покупку.
+Wallet.LearnMore	Узнать больше
+Wallet.Payment	Оплата с помощью кошелька Express от Ubisoft
+Wallet.RemainingFunds	Остаток средств: __REMAINING FUNDS BALANCE__
+Wallet.ReviewOrder	Проверьте свой заказ
+Wallet.RewardsDisclaimer	Награды за операции нельзя использовать для внутриигровых покупок.
+Wallet.RewardsExcluded	Без учета наград за операции: __REWARDS BALANCE__
+Wallet.RewardsIncluded	С учетом наград за операции: __REWARDS BALANCE__
+Wallet.SetUp	Ваш кошелек пока не активирован.
+Wallet.YourBalance	Баланс вашего кошелька
+WalletFunds	Средства кошелька
+WalletRewards	Награды за операции
+Win.MyGamesTitle	Мои игры
+Win.Owned	Куплено
+Wishlist.Header	Список желаемого
