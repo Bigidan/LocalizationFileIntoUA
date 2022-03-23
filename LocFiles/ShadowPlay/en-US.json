@@ -657,7 +657,7 @@
     "l10n.perfmonoc.noIdleSystem": "Автоматичне налаштування було скасовано, оскільки система більше не перебуває у стані бездіяльності. Фонове сканування буде перенесено.",
     "l10n.perfmonoc.laptopInDC": "Автоматичне налаштування було скасовано, оскільки ноутбук було відключено від мережі. Підключіть ноутбук до мережі та спробуйте знову.",
     "l10n.perfmonoc.serviceStopped": "Автоматичне налаштування зупинено. Запустіть сканування ще раз.",
-    "l10n.perfmonoc.disclaimerText3": "Параметры ГП для Налаштування производительности имеют приоритет над другими сторонними параметрами ГП."
+    "l10n.perfmonoc.disclaimerText3": "Параметры ГП для Налаштування производительности имеют приоритет над другими сторонними параметрами ГП.",
     "l10n.perfmonoc.flashIndicator": "Завжди показуйте індикатор відображення спалаху",
     "l10n.perfmonoc.flashIndicatorDesc": "Enables the Reflex Flash Indicator to be shown if the overlay is not enabled, or if a Reflex Analyzer Monitor is not connected. This setting also makes the indicator larger to enable measurement with LDAT.",
     "l10n.perfmonoc.autoRectAlignment": "Налаштувати Reflex Analyzer",
