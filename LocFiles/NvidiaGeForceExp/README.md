@@ -1,6 +1,6 @@
 # GeForce Experience
 ### Інструкція зі зміни мови у програмі GeForce Experience:<br/>
-1. Завантажуємо файл `GeForce_Experience.zip`
+1. Завантажуємо файл `.zip`
 1. Заходимо у каталог застосунку GeForce Experience<br/>
    > Зазвичай він лежить у `C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\www\l10n\`
 
