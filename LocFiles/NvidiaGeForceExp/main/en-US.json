@@ -216,5 +216,10 @@
     "l10n.freestyle": "Фільтри Freestyle",
     "l10n.shadowplayRecords": "Запис і миттєвий повтор вShadowPlay",
     "l10n.openForDiscussion": "Так, зі мною можна зв'язатися, якщо у NVIDIA виникнуть додаткові питання.",
-    "l10n.nvidiaGfeTitle": "NVIDIA GeForce Experience"
+	"l10n.nvidiaGfeTitle": "NVIDIA GeForce Experience",
+    "l10n.gfePartnerInfoDescription": "NVIDIA GeForce Experience uses YouTube API Services, which are governed by the following terms of use and privacy policies:",
+    "l10n.gfeYouTubeTOS": "YouTube Terms of Service",
+    "l10n.gfeGoogleSecuritySettings": "Google Security Settings",
+    "l10n.gfeGooglePrivacyPolicy": "Google Privacy Policy",
+    "l10n.gfePartnerPrivacyPolicy": "Partner Privacy Policies and Terms of Service"
 }

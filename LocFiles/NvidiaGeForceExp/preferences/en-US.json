@@ -90,8 +90,8 @@
     "l10n.notReady": "Не готово",
     "l10n.addScanPathFailed": "Не вдалося додати розташування, спробуйте ще раз.",
     "l10n.downloads": "Заванатжень",
-    "l10n.desktopNotifications": "Не вдалося додати розташування, спробуйте ще раз.",
-    "l10n.driverUpdateAvailable": "Оновлень драйверів GeForce",
+    "l10n.desktopNotifications": "Сповіщення на робочому столі.",
+    "l10n.driverUpdateAvailable": "Оновлення драйверів GeForce",
     "l10n.rewardAvailable": "Нагороди",
     "l10n.optimalSettingsUpdated": "Оновлень оптимальних налаштувань",
     "l10n.highlightDescription": "Виберіть, які моменти слід автоматично записувати для даної гри.",
@@ -183,5 +183,13 @@
     "l10n.fanVolume": "Гучність вентиляторів",
     "l10n.quiet": "Тихо",
     "l10n.quieter": "Ще тихіше",
-    "l10n.quietMode2": "WhisperMode 2.0"
+    "l10n.quietMode2": "WhisperMode 2.0",
+    "l10n.nis": "Image Scaling",
+    "l10n.optimizedResolution": "Render Resolution",
+    "l10n.sharpen": "Sharpen",
+    "l10n.toastNISStateIsEnabled": "Image Scaling is enabled. Optimise all games and applications, including ones with customised settings?",
+    "l10n.toastNISIsDisabled": "Image Scaling is disabled. Optimise all games and applications, including ones with customised settings?",
+    "l10n.nisDescription": "Boost frame rates for optimised games and applications using GPU scaling and sharpening",
+    "l10n.batteryBoost2": "Battery Boost 2.0",
+    "l10n.batteryBoostDescription2": "Automatically extend your battery life when gaming"
 }
