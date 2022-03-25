@@ -1309,6 +1309,15 @@ Wallet.CurrencyMismatch	Валюта гаманця не підтримує кр
 Wallet.CustomerSupport.Link	Служба підтримки
 Wallet.Deactivated	Ваш гаманець відключений з метою забезпечення безпеки.
 Wallet.FundsBalance	Кошти гаманця: __BALANCE__
+Wallet.IngamePayment.Confirm	Підтвердити й оплатити
+Wallet.IngamePayment.Disclaimer	<0/> Нагороди за операції не можна використовувати для внутрішньоігрових покупок. <1>Детальніше</1>
+Wallet.IngamePayment.IncludingRewards	З урахуванням нагород за операції: <0/> {{amount}}
+Wallet.IngamePayment.RemainingBalance	Залишок кошт:
+Wallet.IngamePayment.RewardsTitle	Баланс вашого гаманця:
+Wallet.IngamePayment.Title	Оплата за доаомогою гаманця Express
+Wallet.IngamePayment.TotalSum	Всього:
+Wallet.IngamePayment.WalletBalance	Баланс гаманця:
+Wallet.IngamePayment.WalletFunds	Кошт на гаманці:
 Wallet.InsufficientFunds	У гаманці недостатньо коштів, щоб зробити цю покупку.
 Wallet.LearnMore	Дізнатись більше
 Wallet.Payment	Оплата за допомогою гаманця Express від Ubisoft
