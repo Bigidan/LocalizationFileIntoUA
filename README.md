@@ -17,7 +17,6 @@
 
 * [![Tricky Towers](https://img.shields.io/badge/-🎮_Tricky_Towers-090909?style=for-the-badge&logo=Game)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/TrickyTowers)<br/>
 
-* [![Scrap Mechanic](https://img.shields.io/badge/-🎮_Scrap_Mechanic-090909?style=for-the-badge&logo=Game)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/ScrapMechanic)<br/>
 Все, ¯\\_ (o_o) _/¯ інші переклади очікуються...
 
 
