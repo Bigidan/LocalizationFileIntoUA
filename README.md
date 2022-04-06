@@ -11,6 +11,13 @@
 
 * [![DroidCam Client](https://img.shields.io/badge/-DroidCam_Client-090909?style=for-the-badge&logo=Android)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/DroidCam)<br/>
 
+* [![Mortal Shell](https://img.shields.io/badge/-Mortal_Shell-090909?style=for-the-badge&logo=Game)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/MortalShell)<br/>
+
+* [![SIFU](https://img.shields.io/badge/-SIFU-090909?style=for-the-badge&logo=Game)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/Sifu)<br/>
+
+* [![Tricky Towers](https://img.shields.io/badge/-Tricky_Towers-090909?style=for-the-badge&logo=Game)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/TrickyTowers)<br/>
+
+* [![Scrap Mechanic](https://img.shields.io/badge/-Scrap_Mechanic-090909?style=for-the-badge&logo=Game)](https://github.com/Bigidan/LocalizationFileIntoUA/tree/main/LocFiles/ScrapMechanic)<br/>
 Все, ¯\\_ (o_o) _/¯ інші переклади очікуються...
 
 
